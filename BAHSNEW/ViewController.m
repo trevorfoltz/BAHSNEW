@@ -18,8 +18,7 @@
 @implementation ViewController
 
 
-@synthesize theTable, theSearchBar, tableStates, dataSingleton, counties;
-@synthesize searchOn;
+@synthesize theTable, theSearchBar, tableStates, dataSingleton, counties, searchOn;
 
 - (void)viewDidLoad
 {
