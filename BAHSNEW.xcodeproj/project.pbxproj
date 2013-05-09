@@ -16,6 +16,23 @@
 		D0C54FB9173C141F005A4EA0 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = D0C54FB8173C141F005A4EA0 /* Default.png */; };
 		D0C54FBB173C141F005A4EA0 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D0C54FBA173C141F005A4EA0 /* Default@2x.png */; };
 		D0C54FBD173C141F005A4EA0 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D0C54FBC173C141F005A4EA0 /* Default-568h@2x.png */; };
+		D0C54FC5173C145A005A4EA0 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D0C54FC3173C145A005A4EA0 /* CoreLocation.framework */; };
+		D0C54FC6173C145A005A4EA0 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D0C54FC4173C145A005A4EA0 /* MapKit.framework */; };
+		D0C54FCA173C1516005A4EA0 /* DetailView.m in Sources */ = {isa = PBXBuildFile; fileRef = D0C54FC8173C1516005A4EA0 /* DetailView.m */; };
+		D0C54FCB173C1516005A4EA0 /* DetailView.xib in Resources */ = {isa = PBXBuildFile; fileRef = D0C54FC9173C1516005A4EA0 /* DetailView.xib */; };
+		D0C54FDD173C155D005A4EA0 /* bigpin.png in Resources */ = {isa = PBXBuildFile; fileRef = D0C54FCC173C155D005A4EA0 /* bigpin.png */; };
+		D0C54FDE173C155D005A4EA0 /* DataSingleton.m in Sources */ = {isa = PBXBuildFile; fileRef = D0C54FCE173C155D005A4EA0 /* DataSingleton.m */; };
+		D0C54FDF173C155D005A4EA0 /* SchoolAnnotation.m in Sources */ = {isa = PBXBuildFile; fileRef = D0C54FD0173C155D005A4EA0 /* SchoolAnnotation.m */; };
+		D0C54FE0173C155D005A4EA0 /* SchoolImageAnnotation.m in Sources */ = {isa = PBXBuildFile; fileRef = D0C54FD2173C155D005A4EA0 /* SchoolImageAnnotation.m */; };
+		D0C54FE1173C155D005A4EA0 /* SchoolMapViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D0C54FD4173C155D005A4EA0 /* SchoolMapViewController.m */; };
+		D0C54FE2173C155D005A4EA0 /* SchoolMapViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D0C54FD5173C155D005A4EA0 /* SchoolMapViewController.xib */; };
+		D0C54FE3173C155D005A4EA0 /* Schools.plist in Resources */ = {isa = PBXBuildFile; fileRef = D0C54FD6173C155D005A4EA0 /* Schools.plist */; };
+		D0C54FE4173C155D005A4EA0 /* smallpin.png in Resources */ = {isa = PBXBuildFile; fileRef = D0C54FD7173C155D005A4EA0 /* smallpin.png */; };
+		D0C54FE5173C155D005A4EA0 /* TableCell.m in Sources */ = {isa = PBXBuildFile; fileRef = D0C54FD9173C155D005A4EA0 /* TableCell.m */; };
+		D0C54FE6173C155D005A4EA0 /* TableCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = D0C54FDA173C155D005A4EA0 /* TableCell.xib */; };
+		D0C54FE7173C155D005A4EA0 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D0C54FDC173C155D005A4EA0 /* ViewController.m */; };
+		D0C54FE9173C15D7005A4EA0 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D0C54FE8173C15D7005A4EA0 /* ViewController.xib */; };
+		D0C54FEB173C161A005A4EA0 /* iconbahs1.png in Resources */ = {isa = PBXBuildFile; fileRef = D0C54FEA173C161A005A4EA0 /* iconbahs1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +49,30 @@
 		D0C54FB8173C141F005A4EA0 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
 		D0C54FBA173C141F005A4EA0 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
 		D0C54FBC173C141F005A4EA0 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		D0C54FC3173C145A005A4EA0 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		D0C54FC4173C145A005A4EA0 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		D0C54FC7173C1516005A4EA0 /* DetailView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailView.h; sourceTree = "<group>"; };
+		D0C54FC8173C1516005A4EA0 /* DetailView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailView.m; sourceTree = "<group>"; };
+		D0C54FC9173C1516005A4EA0 /* DetailView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = DetailView.xib; sourceTree = "<group>"; };
+		D0C54FCC173C155D005A4EA0 /* bigpin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bigpin.png; sourceTree = "<group>"; };
+		D0C54FCD173C155D005A4EA0 /* DataSingleton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DataSingleton.h; sourceTree = "<group>"; };
+		D0C54FCE173C155D005A4EA0 /* DataSingleton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DataSingleton.m; sourceTree = "<group>"; };
+		D0C54FCF173C155D005A4EA0 /* SchoolAnnotation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SchoolAnnotation.h; sourceTree = "<group>"; };
+		D0C54FD0173C155D005A4EA0 /* SchoolAnnotation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SchoolAnnotation.m; sourceTree = "<group>"; };
+		D0C54FD1173C155D005A4EA0 /* SchoolImageAnnotation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SchoolImageAnnotation.h; sourceTree = "<group>"; };
+		D0C54FD2173C155D005A4EA0 /* SchoolImageAnnotation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SchoolImageAnnotation.m; sourceTree = "<group>"; };
+		D0C54FD3173C155D005A4EA0 /* SchoolMapViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SchoolMapViewController.h; sourceTree = "<group>"; };
+		D0C54FD4173C155D005A4EA0 /* SchoolMapViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SchoolMapViewController.m; sourceTree = "<group>"; };
+		D0C54FD5173C155D005A4EA0 /* SchoolMapViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SchoolMapViewController.xib; sourceTree = "<group>"; };
+		D0C54FD6173C155D005A4EA0 /* Schools.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Schools.plist; sourceTree = "<group>"; };
+		D0C54FD7173C155D005A4EA0 /* smallpin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = smallpin.png; sourceTree = "<group>"; };
+		D0C54FD8173C155D005A4EA0 /* TableCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableCell.h; sourceTree = "<group>"; };
+		D0C54FD9173C155D005A4EA0 /* TableCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableCell.m; sourceTree = "<group>"; };
+		D0C54FDA173C155D005A4EA0 /* TableCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TableCell.xib; sourceTree = "<group>"; };
+		D0C54FDB173C155D005A4EA0 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		D0C54FDC173C155D005A4EA0 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		D0C54FE8173C15D7005A4EA0 /* ViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ViewController.xib; sourceTree = "<group>"; };
+		D0C54FEA173C161A005A4EA0 /* iconbahs1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iconbahs1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,6 +80,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D0C54FC5173C145A005A4EA0 /* CoreLocation.framework in Frameworks */,
+				D0C54FC6173C145A005A4EA0 /* MapKit.framework in Frameworks */,
 				D0C54FA7173C141E005A4EA0 /* UIKit.framework in Frameworks */,
 				D0C54FA9173C141E005A4EA0 /* Foundation.framework in Frameworks */,
 				D0C54FAB173C141E005A4EA0 /* CoreGraphics.framework in Frameworks */,
@@ -51,6 +94,7 @@
 		D0C54F9A173C141E005A4EA0 = {
 			isa = PBXGroup;
 			children = (
+				D0C54FEA173C161A005A4EA0 /* iconbahs1.png */,
 				D0C54FAC173C141E005A4EA0 /* BAHSNEW */,
 				D0C54FA5173C141E005A4EA0 /* Frameworks */,
 				D0C54FA4173C141E005A4EA0 /* Products */,
@@ -68,6 +112,8 @@
 		D0C54FA5173C141E005A4EA0 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				D0C54FC3173C145A005A4EA0 /* CoreLocation.framework */,
+				D0C54FC4173C145A005A4EA0 /* MapKit.framework */,
 				D0C54FA6173C141E005A4EA0 /* UIKit.framework */,
 				D0C54FA8173C141E005A4EA0 /* Foundation.framework */,
 				D0C54FAA173C141E005A4EA0 /* CoreGraphics.framework */,
@@ -78,6 +124,24 @@
 		D0C54FAC173C141E005A4EA0 /* BAHSNEW */ = {
 			isa = PBXGroup;
 			children = (
+				D0C54FCD173C155D005A4EA0 /* DataSingleton.h */,
+				D0C54FCE173C155D005A4EA0 /* DataSingleton.m */,
+				D0C54FCF173C155D005A4EA0 /* SchoolAnnotation.h */,
+				D0C54FD0173C155D005A4EA0 /* SchoolAnnotation.m */,
+				D0C54FD1173C155D005A4EA0 /* SchoolImageAnnotation.h */,
+				D0C54FD2173C155D005A4EA0 /* SchoolImageAnnotation.m */,
+				D0C54FD3173C155D005A4EA0 /* SchoolMapViewController.h */,
+				D0C54FD4173C155D005A4EA0 /* SchoolMapViewController.m */,
+				D0C54FD5173C155D005A4EA0 /* SchoolMapViewController.xib */,
+				D0C54FD8173C155D005A4EA0 /* TableCell.h */,
+				D0C54FD9173C155D005A4EA0 /* TableCell.m */,
+				D0C54FDA173C155D005A4EA0 /* TableCell.xib */,
+				D0C54FDB173C155D005A4EA0 /* ViewController.h */,
+				D0C54FDC173C155D005A4EA0 /* ViewController.m */,
+				D0C54FE8173C15D7005A4EA0 /* ViewController.xib */,
+				D0C54FC7173C1516005A4EA0 /* DetailView.h */,
+				D0C54FC8173C1516005A4EA0 /* DetailView.m */,
+				D0C54FC9173C1516005A4EA0 /* DetailView.xib */,
 				D0C54FB5173C141F005A4EA0 /* AppDelegate.h */,
 				D0C54FB6173C141F005A4EA0 /* AppDelegate.m */,
 				D0C54FAD173C141F005A4EA0 /* Supporting Files */,
@@ -88,6 +152,9 @@
 		D0C54FAD173C141F005A4EA0 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				D0C54FCC173C155D005A4EA0 /* bigpin.png */,
+				D0C54FD6173C155D005A4EA0 /* Schools.plist */,
+				D0C54FD7173C155D005A4EA0 /* smallpin.png */,
 				D0C54FAE173C141F005A4EA0 /* BAHSNEW-Info.plist */,
 				D0C54FAF173C141F005A4EA0 /* InfoPlist.strings */,
 				D0C54FB2173C141F005A4EA0 /* main.m */,
@@ -154,6 +221,14 @@
 				D0C54FB9173C141F005A4EA0 /* Default.png in Resources */,
 				D0C54FBB173C141F005A4EA0 /* Default@2x.png in Resources */,
 				D0C54FBD173C141F005A4EA0 /* Default-568h@2x.png in Resources */,
+				D0C54FCB173C1516005A4EA0 /* DetailView.xib in Resources */,
+				D0C54FDD173C155D005A4EA0 /* bigpin.png in Resources */,
+				D0C54FE2173C155D005A4EA0 /* SchoolMapViewController.xib in Resources */,
+				D0C54FE3173C155D005A4EA0 /* Schools.plist in Resources */,
+				D0C54FE4173C155D005A4EA0 /* smallpin.png in Resources */,
+				D0C54FE6173C155D005A4EA0 /* TableCell.xib in Resources */,
+				D0C54FE9173C15D7005A4EA0 /* ViewController.xib in Resources */,
+				D0C54FEB173C161A005A4EA0 /* iconbahs1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -166,6 +241,13 @@
 			files = (
 				D0C54FB3173C141F005A4EA0 /* main.m in Sources */,
 				D0C54FB7173C141F005A4EA0 /* AppDelegate.m in Sources */,
+				D0C54FCA173C1516005A4EA0 /* DetailView.m in Sources */,
+				D0C54FDE173C155D005A4EA0 /* DataSingleton.m in Sources */,
+				D0C54FDF173C155D005A4EA0 /* SchoolAnnotation.m in Sources */,
+				D0C54FE0173C155D005A4EA0 /* SchoolImageAnnotation.m in Sources */,
+				D0C54FE1173C155D005A4EA0 /* SchoolMapViewController.m in Sources */,
+				D0C54FE5173C155D005A4EA0 /* TableCell.m in Sources */,
+				D0C54FE7173C155D005A4EA0 /* ViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -245,6 +327,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "BAHSNEW/BAHSNEW-Prefix.pch";
 				INFOPLIST_FILE = "BAHSNEW/BAHSNEW-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -256,6 +339,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "BAHSNEW/BAHSNEW-Prefix.pch";
 				INFOPLIST_FILE = "BAHSNEW/BAHSNEW-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};

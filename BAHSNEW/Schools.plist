@@ -1,0 +1,3141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1</key>	
+	<dict>	
+		<key>county</key>
+		<string>Alameda</string>
+		<key>city</key>
+		<string>Alameda</string>
+		<key>school</key>
+		<string>Alameda</string>
+		<key>mascot</key>
+		<string>Jets</string>
+		<key>address</key>
+		<string>2201 Encinal Ave</string>
+		<key>phone</key>
+		<string>510-337-7022</string>
+		<key>lat</key>
+		<string>37.7642338</string>
+		<key>lon</key>
+		<string>-122.247758</string>
+	</dict>	
+	<key>2</key>	
+	<dict>	
+		<key>county</key>
+		<string>Alameda</string>
+		<key>city</key>
+		<string>Alameda</string>
+		<key>school</key>
+		<string>Encinal</string>
+		<key>mascot</key>
+		<string>Hornets</string>
+		<key>address</key>
+		<string>210 Central Ave</string>
+		<key>phone</key>
+		<string>510-748-4023</string>
+		<key>lat</key>
+		<string>37.7727448</string>
+		<key>lon</key>
+		<string>-122.288611</string>
+	</dict>	
+	<key>3</key>	
+	<dict>	
+		<key>county</key>
+		<string>Alameda</string>
+		<key>city</key>
+		<string>Albany</string>
+		<key>school</key>
+		<string>Albany</string>
+		<key>mascot</key>
+		<string>Cougars</string>
+		<key>address</key>
+		<string>603 Key Route Blvd</string>
+		<key>phone</key>
+		<string>510-558-2500</string>
+		<key>lat</key>
+		<string>37.8957983</string>
+		<key>lon</key>
+		<string>-122.2925337</string>
+	</dict>	
+	<key>4</key>	
+	<dict>	
+		<key>county</key>
+		<string>Alameda</string>
+		<key>city</key>
+		<string>Berkeley</string>
+		<key>school</key>
+		<string>Berkeley</string>
+		<key>mascot</key>
+		<string>Yellow Jackets</string>
+		<key>address</key>
+		<string>1980 Allston Way</string>
+		<key>phone</key>
+		<string>510-644-6120</string>
+		<key>lat</key>
+		<string>37.8689076</string>
+		<key>lon</key>
+		<string>-122.2706891</string>
+	</dict>	
+	<key>5</key>	
+	<dict>	
+		<key>county</key>
+		<string>Alameda</string>
+		<key>city</key>
+		<string>Castro Valley</string>
+		<key>school</key>
+		<string>Castro Valley</string>
+		<key>mascot</key>
+		<string>Trojans</string>
+		<key>address</key>
+		<string>19400 Santa Maria Ave</string>
+		<key>phone</key>
+		<string>510-537-5910</string>
+		<key>lat</key>
+		<string>37.70461</string>
+		<key>lon</key>
+		<string>-122.076222</string>
+	</dict>	
+	<key>6</key>	
+	<dict>	
+		<key>county</key>
+		<string>Alameda</string>
+		<key>city</key>
+		<string>Dublin</string>
+		<key>school</key>
+		<string>Dublin</string>
+		<key>mascot</key>
+		<string>Gaels</string>
+		<key>address</key>
+		<string>8151 Village Pkwy</string>
+		<key>phone</key>
+		<string>925-833-3300</string>
+		<key>lat</key>
+		<string>37.720565</string>
+		<key>lon</key>
+		<string>-121.92403</string>
+	</dict>	
+	<key>7</key>	
+	<dict>	
+		<key>county</key>
+		<string>Alameda</string>
+		<key>city</key>
+		<string>Fremont</string>
+		<key>school</key>
+		<string>American</string>
+		<key>mascot</key>
+		<string>Eagles</string>
+		<key>address</key>
+		<string>36300 Fremont Blvd</string>
+		<key>phone</key>
+		<string>510-796-1776</string>
+		<key>lat</key>
+		<string>37.5630028</string>
+		<key>lon</key>
+		<string>-122.0160892</string>
+	</dict>	
+	<key>8</key>	
+	<dict>	
+		<key>county</key>
+		<string>Alameda</string>
+		<key>city</key>
+		<string>Fremont</string>
+		<key>school</key>
+		<string>John F. Kennedy</string>
+		<key>mascot</key>
+		<string></string>
+		<key>address</key>
+		<string>39999 Blacow Rd</string>
+		<key>phone</key>
+		<string>510-657-4070</string>
+		<key>lat</key>
+		<string>37.529187</string>
+		<key>lon</key>
+		<string>-121.985246</string>
+	</dict>	
+	<key>9</key>	
+	<dict>	
+		<key>county</key>
+		<string>Alameda</string>
+		<key>city</key>
+		<string>Fremont</string>
+		<key>school</key>
+		<string>Irvington</string>
+		<key>mascot</key>
+		<string>Vikings</string>
+		<key>address</key>
+		<string>41800 Blacow Rd</string>
+		<key>phone</key>
+		<string>510-656-5711</string>
+		<key>lat</key>
+		<string>37.522631</string>
+		<key>lon</key>
+		<string>-121.968931</string>
+	</dict>	
+	<key>10</key>	
+	<dict>	
+		<key>county</key>
+		<string>Alameda</string>
+		<key>city</key>
+		<string>Fremont</string>
+		<key>school</key>
+		<string>Mission-San Jose</string>
+		<key>mascot</key>
+		<string>Warriors</string>
+		<key>address</key>
+		<string>41717 Palm Ave</string>
+		<key>phone</key>
+		<string>510-657-3600</string>
+		<key>lat</key>
+		<string>37.5444781</string>
+		<key>lon</key>
+		<string>-121.9341055</string>
+	</dict>	
+	<key>11</key>	
+	<dict>	
+		<key>county</key>
+		<string>Alameda</string>
+		<key>city</key>
+		<string>Fremont</string>
+		<key>school</key>
+		<string>Washington</string>
+		<key>mascot</key>
+		<string>Huskies</string>
+		<key>address</key>
+		<string>38442 Fremont Blvd</string>
+		<key>phone</key>
+		<string>510-505-7300</string>
+		<key>lat</key>
+		<string>37.5520594</string>
+		<key>lon</key>
+		<string>-121.9948771</string>
+	</dict>	
+	<key>12</key>	
+	<dict>	
+		<key>county</key>
+		<string>Alameda</string>
+		<key>city</key>
+		<string>Hayward</string>
+		<key>school</key>
+		<string>Hayward</string>
+		<key>mascot</key>
+		<string>Farmers</string>
+		<key>address</key>
+		<string>1633 E. Ave</string>
+		<key>phone</key>
+		<string>510-293-8586</string>
+		<key>lat</key>
+		<string>37.6725644</string>
+		<key>lon</key>
+		<string>-122.0692375</string>
+	</dict>	
+	<key>13</key>	
+	<dict>	
+		<key>county</key>
+		<string>Alameda</string>
+		<key>city</key>
+		<string>Hayward</string>
+		<key>school</key>
+		<string>Mt. Eden</string>
+		<key>mascot</key>
+		<string>Monarchs</string>
+		<key>address</key>
+		<string>2300 Panama St</string>
+		<key>phone</key>
+		<string>510-293-8539</string>
+		<key>lat</key>
+		<string>37.625352</string>
+		<key>lon</key>
+		<string>-122.0905844</string>
+	</dict>	
+	<key>14</key>	
+	<dict>	
+		<key>county</key>
+		<string>Alameda</string>
+		<key>city</key>
+		<string>Hayward</string>
+		<key>school</key>
+		<string>Tennyson</string>
+		<key>mascot</key>
+		<string>Lancers</string>
+		<key>address</key>
+		<string>27035 Whitman St</string>
+		<key>phone</key>
+		<string>510-293-8591</string>
+		<key>lat</key>
+		<string>37.641614</string>
+		<key>lon</key>
+		<string>-122.068309</string>
+	</dict>	
+	<key>15</key>	
+	<dict>	
+		<key>county</key>
+		<string>Alameda</string>
+		<key>city</key>
+		<string>Livermore</string>
+		<key>school</key>
+		<string>Livermore</string>
+		<key>mascot</key>
+		<string>Cowboys</string>
+		<key>address</key>
+		<string>600 Maple St</string>
+		<key>phone</key>
+		<string>925-606-4812</string>
+		<key>lat</key>
+		<string>37.6800997</string>
+		<key>lon</key>
+		<string>-121.7611544</string>
+	</dict>	
+	<key>16</key>	
+	<dict>	
+		<key>county</key>
+		<string>Alameda</string>
+		<key>city</key>
+		<string>Livermore</string>
+		<key>school</key>
+		<string>Granada</string>
+		<key>mascot</key>
+		<string>Matadors</string>
+		<key>address</key>
+		<string>400 Wall St</string>
+		<key>phone</key>
+		<string>925-606-4800</string>
+		<key>lat</key>
+		<string>37.674818</string>
+		<key>lon</key>
+		<string>-121.787625</string>
+	</dict>	
+	<key>17</key>	
+	<dict>	
+		<key>county</key>
+		<string>Alameda</string>
+		<key>city</key>
+		<string>Oakland</string>
+		<key>school</key>
+		<string>Oakland</string>
+		<key>mascot</key>
+		<string>Wildcats</string>
+		<key>address</key>
+		<string>1023 Macarthur Blvd</string>
+		<key>phone</key>
+		<string>510-879-3040</string>
+		<key>lat</key>
+		<string>37.8052076</string>
+		<key>lon</key>
+		<string>-122.2362777</string>
+	</dict>	
+	<key>18</key>	
+	<dict>	
+		<key>county</key>
+		<string>Alameda</string>
+		<key>city</key>
+		<string>Oakland</string>
+		<key>school</key>
+		<string>Oakland Technical</string>
+		<key>mascot</key>
+		<string>Bulldogs</string>
+		<key>address</key>
+		<string>4351 Broadway</string>
+		<key>phone</key>
+		<string>510-879-3050</string>
+		<key>lat</key>
+		<string>37.8315905</string>
+		<key>lon</key>
+		<string>-122.2544884</string>
+	</dict>	
+	<key>19</key>	
+	<dict>	
+		<key>county</key>
+		<string>Alameda</string>
+		<key>city</key>
+		<string>Oakland</string>
+		<key>school</key>
+		<string>Skyline</string>
+		<key>mascot</key>
+		<string>Titans</string>
+		<key>address</key>
+		<string>12250 Skyline Blvd</string>
+		<key>phone</key>
+		<string>510-879-3060</string>
+		<key>lat</key>
+		<string>37.798392</string>
+		<key>lon</key>
+		<string>-122.161464</string>
+	</dict>	
+	<key>20</key>	
+	<dict>	
+		<key>county</key>
+		<string>Alameda</string>
+		<key>city</key>
+		<string>Piedmont</string>
+		<key>school</key>
+		<string>Piedmont</string>
+		<key>mascot</key>
+		<string>Highlanders</string>
+		<key>address</key>
+		<string>800 Magnolia Ave</string>
+		<key>phone</key>
+		<string>510-594-2626</string>
+		<key>lat</key>
+		<string>37.8234908</string>
+		<key>lon</key>
+		<string>-122.2329558</string>
+	</dict>	
+	<key>21</key>	
+	<dict>	
+		<key>county</key>
+		<string>Alameda</string>
+		<key>city</key>
+		<string>Pleasanton</string>
+		<key>school</key>
+		<string>Foothill</string>
+		<key>mascot</key>
+		<string>Falcons</string>
+		<key>address</key>
+		<string>4375 Foothill Rd</string>
+		<key>phone</key>
+		<string>925-461-6600</string>
+		<key>lat</key>
+		<string>37.671728</string>
+		<key>lon</key>
+		<string>-121.920519</string>
+	</dict>	
+	<key>22</key>	
+	<dict>	
+		<key>county</key>
+		<string>Alameda</string>
+		<key>city</key>
+		<string>San Leandro</string>
+		<key>school</key>
+		<string>San Leandro</string>
+		<key>mascot</key>
+		<string>Pirates</string>
+		<key>address</key>
+		<string>2200 Bancroft Ave</string>
+		<key>phone</key>
+		<string>510-667-3540</string>
+		<key>lat</key>
+		<string>37.7178248</string>
+		<key>lon</key>
+		<string>-122.1434467</string>
+	</dict>	
+	<key>23</key>	
+	<dict>	
+		<key>county</key>
+		<string>Alameda</string>
+		<key>city</key>
+		<string>San Lorenzo</string>
+		<key>school</key>
+		<string>Arroyo</string>
+		<key>mascot</key>
+		<string>Dons</string>
+		<key>address</key>
+		<string>15701 Lorenzo Ave</string>
+		<key>phone</key>
+		<string>510-317-4000</string>
+		<key>lat</key>
+		<string>37.6808139</string>
+		<key>lon</key>
+		<string>-122.1382398</string>
+	</dict>	
+	<key>24</key>	
+	<dict>	
+		<key>county</key>
+		<string>Alameda</string>
+		<key>city</key>
+		<string>San Lorenzo</string>
+		<key>school</key>
+		<string>San Lorenzo</string>
+		<key>mascot</key>
+		<string>Rebels</string>
+		<key>address</key>
+		<string>50 E. Lewelling Blvd</string>
+		<key>phone</key>
+		<string>510-317-3000</string>
+		<key>lat</key>
+		<string>37.688571</string>
+		<key>lon</key>
+		<string>-122.122524</string>
+	</dict>	
+	<key>25</key>	
+	<dict>	
+		<key>county</key>
+		<string>Alameda</string>
+		<key>city</key>
+		<string>Union City</string>
+		<key>school</key>
+		<string>James Logan</string>
+		<key>mascot</key>
+		<string>Colts</string>
+		<key>address</key>
+		<string>1800 H St</string>
+		<key>phone</key>
+		<string>510-471-2520</string>
+		<key>lat</key>
+		<string>37.590877</string>
+		<key>lon</key>
+		<string>-122.026714</string>
+	</dict>	
+	<key>26</key>	
+	<dict>	
+		<key>county</key>
+		<string>Contra Costa</string>
+		<key>city</key>
+		<string>Antioch</string>
+		<key>school</key>
+		<string>Antioch</string>
+		<key>mascot</key>
+		<string>Panthers</string>
+		<key>address</key>
+		<string>700 W 18th St</string>
+		<key>phone</key>
+		<string>925-706-5300</string>
+		<key>lat</key>
+		<string>38.0059557</string>
+		<key>lon</key>
+		<string>-121.8160663</string>
+	</dict>	
+	<key>27</key>	
+	<dict>	
+		<key>county</key>
+		<string>Contra Costa</string>
+		<key>city</key>
+		<string>Antioch</string>
+		<key>school</key>
+		<string>Deer Valley</string>
+		<key>mascot</key>
+		<string>Wolverines</string>
+		<key>address</key>
+		<string>4700 Lone Tree Way</string>
+		<key>phone</key>
+		<string>925-776-5555</string>
+		<key>lat</key>
+		<string>37.964365</string>
+		<key>lon</key>
+		<string>-121.776409</string>
+	</dict>	
+	<key>28</key>	
+	<dict>	
+		<key>county</key>
+		<string>Contra Costa</string>
+		<key>city</key>
+		<string>Brentwood</string>
+		<key>school</key>
+		<string>Heritage</string>
+		<key>mascot</key>
+		<string>Patriots</string>
+		<key>address</key>
+		<string>101 American Ave</string>
+		<key>phone</key>
+		<string>925-634-0037</string>
+		<key>lat</key>
+		<string>37.9218509</string>
+		<key>lon</key>
+		<string>-121.755682</string>
+	</dict>	
+	<key>29</key>	
+	<dict>	
+		<key>county</key>
+		<string>Contra Costa</string>
+		<key>city</key>
+		<string>Brentwood</string>
+		<key>school</key>
+		<string>Liberty</string>
+		<key>mascot</key>
+		<string>Lions</string>
+		<key>address</key>
+		<string>850 Second St</string>
+		<key>phone</key>
+		<string>925-634-3521</string>
+		<key>lat</key>
+		<string>37.935838</string>
+		<key>lon</key>
+		<string>-121.694269</string>
+	</dict>	
+	<key>30</key>	
+	<dict>	
+		<key>county</key>
+		<string>Contra Costa</string>
+		<key>city</key>
+		<string>Concord</string>
+		<key>school</key>
+		<string>Clayton Valley</string>
+		<key>mascot</key>
+		<string>Eagles</string>
+		<key>address</key>
+		<string>1101 Alberta Way</string>
+		<key>phone</key>
+		<string>925-682-7474</string>
+		<key>lat</key>
+		<string>37.950358</string>
+		<key>lon</key>
+		<string>-121.969533</string>
+	</dict>	
+	<key>31</key>	
+	<dict>	
+		<key>county</key>
+		<string>Contra Costa</string>
+		<key>city</key>
+		<string>Concord</string>
+		<key>school</key>
+		<string>Concord</string>
+		<key>mascot</key>
+		<string>Minutemen</string>
+		<key>address</key>
+		<string>4200 Concord Blvd</string>
+		<key>phone</key>
+		<string>925-687-2030</string>
+		<key>lat</key>
+		<string>37.978521</string>
+		<key>lon</key>
+		<string>-121.987744</string>
+	</dict>	
+	<key>32</key>	
+	<dict>	
+		<key>county</key>
+		<string>Contra Costa</string>
+		<key>city</key>
+		<string>Concord</string>
+		<key>school</key>
+		<string>Mt. Diablo</string>
+		<key>mascot</key>
+		<string>Red Devils</string>
+		<key>address</key>
+		<string>2450 Grant St</string>
+		<key>phone</key>
+		<string>925-580-4030</string>
+		<key>lat</key>
+		<string>37.982693</string>
+		<key>lon</key>
+		<string>-122.0367852</string>
+	</dict>	
+	<key>33</key>	
+	<dict>	
+		<key>county</key>
+		<string>Contra Costa</string>
+		<key>city</key>
+		<string>Concord</string>
+		<key>school</key>
+		<string>Ygnacio Valley</string>
+		<key>mascot</key>
+		<string>Warriors</string>
+		<key>address</key>
+		<string>755 Oak Grove Rd</string>
+		<key>phone</key>
+		<string>925-685-8414</string>
+		<key>lat</key>
+		<string>37.934057</string>
+		<key>lon</key>
+		<string>-122.025711</string>
+	</dict>	
+	<key>34</key>	
+	<dict>	
+		<key>county</key>
+		<string>Contra Costa</string>
+		<key>city</key>
+		<string>Crockett</string>
+		<key>school</key>
+		<string>John Swett</string>
+		<key>mascot</key>
+		<string>Indians</string>
+		<key>address</key>
+		<string>1098 Pomona St</string>
+		<key>phone</key>
+		<string>510-787-1088</string>
+		<key>lat</key>
+		<string>38.053495</string>
+		<key>lon</key>
+		<string>-122.221117</string>
+	</dict>	
+	<key>35</key>	
+	<dict>	
+		<key>county</key>
+		<string>Contra Costa</string>
+		<key>city</key>
+		<string>Danville</string>
+		<key>school</key>
+		<string>Monte Vista</string>
+		<key>mascot</key>
+		<string>Mustangs</string>
+		<key>address</key>
+		<string>3131 Stone Valley Rd</string>
+		<key>phone</key>
+		<string>925-552-5530</string>
+		<key>lat</key>
+		<string>37.8438451</string>
+		<key>lon</key>
+		<string>-121.9817492</string>
+	</dict>	
+	<key>36</key>	
+	<dict>	
+		<key>county</key>
+		<string>Contra Costa</string>
+		<key>city</key>
+		<string>Danville</string>
+		<key>school</key>
+		<string>San Ramon Valley</string>
+		<key>mascot</key>
+		<string>Wolves</string>
+		<key>address</key>
+		<string>140 Love Ln</string>
+		<key>phone</key>
+		<string>925-552-5580</string>
+		<key>lat</key>
+		<string>37.8240199</string>
+		<key>lon</key>
+		<string>-122.0055646</string>
+	</dict>	
+	<key>37</key>	
+	<dict>	
+		<key>county</key>
+		<string>Contra Costa</string>
+		<key>city</key>
+		<string>Martinez</string>
+		<key>school</key>
+		<string>Alhambra</string>
+		<key>mascot</key>
+		<string>Bulldogs</string>
+		<key>address</key>
+		<string>150 E St</string>
+		<key>phone</key>
+		<string>925-313-0440</string>
+		<key>lat</key>
+		<string>38.0025909</string>
+		<key>lon</key>
+		<string>-122.1334243</string>
+	</dict>	
+	<key>38</key>	
+	<dict>	
+		<key>county</key>
+		<string>Contra Costa</string>
+		<key>city</key>
+		<string>Moraga</string>
+		<key>school</key>
+		<string>Campolindo</string>
+		<key>mascot</key>
+		<string>Cougars</string>
+		<key>address</key>
+		<string>300 Moraga Rd</string>
+		<key>phone</key>
+		<string>925-280-3950</string>
+		<key>lat</key>
+		<string>37.8668475</string>
+		<key>lon</key>
+		<string>-122.125176</string>
+	</dict>	
+	<key>39</key>	
+	<dict>	
+		<key>county</key>
+		<string>Contra Costa</string>
+		<key>city</key>
+		<string>Oakley</string>
+		<key>school</key>
+		<string>Freedom</string>
+		<key>mascot</key>
+		<string>Falcons</string>
+		<key>address</key>
+		<string>1050 Neroly Rd</string>
+		<key>phone</key>
+		<string>925-625-5900</string>
+		<key>lat</key>
+		<string>37.9689143</string>
+		<key>lon</key>
+		<string>-121.7159814</string>
+	</dict>	
+	<key>40</key>	
+	<dict>	
+		<key>county</key>
+		<string>Contra Costa</string>
+		<key>city</key>
+		<string>Orinda</string>
+		<key>school</key>
+		<string>Miramonte</string>
+		<key>mascot</key>
+		<string>Matadors</string>
+		<key>address</key>
+		<string>750 Moraga Way</string>
+		<key>phone</key>
+		<string>925-280-3930</string>
+		<key>lat</key>
+		<string>37.8410107</string>
+		<key>lon</key>
+		<string>-122.144335</string>
+	</dict>	
+	<key>41</key>	
+	<dict>	
+		<key>county</key>
+		<string>Contra Costa</string>
+		<key>city</key>
+		<string>Pinole</string>
+		<key>school</key>
+		<string>Pinole Valley</string>
+		<key>mascot</key>
+		<string>Spartans</string>
+		<key>address</key>
+		<string>2900 Pinole Valley Rd</string>
+		<key>phone</key>
+		<string>510-758-4664</string>
+		<key>lat</key>
+		<string>37.9919363</string>
+		<key>lon</key>
+		<string>-122.2856069</string>
+	</dict>	
+	<key>42</key>	
+	<dict>	
+		<key>county</key>
+		<string>Contra Costa</string>
+		<key>city</key>
+		<string>Pittsburg</string>
+		<key>school</key>
+		<string>Pittsburg</string>
+		<key>mascot</key>
+		<string>Pirates</string>
+		<key>address</key>
+		<string>250 School St</string>
+		<key>phone</key>
+		<string>925-473-4100</string>
+		<key>lat</key>
+		<string>38.0208562</string>
+		<key>lon</key>
+		<string>-121.8852218</string>
+	</dict>	
+	<key>43</key>	
+	<dict>	
+		<key>county</key>
+		<string>Contra Costa</string>
+		<key>city</key>
+		<string>Pleasant Hill</string>
+		<key>school</key>
+		<string>College Park</string>
+		<key>mascot</key>
+		<string>Falcons</string>
+		<key>address</key>
+		<string>201 Viking Drive</string>
+		<key>phone</key>
+		<string>925-682-7670</string>
+		<key>lat</key>
+		<string>37.963814</string>
+		<key>lon</key>
+		<string>-122.070233</string>
+	</dict>	
+	<key>44</key>	
+	<dict>	
+		<key>county</key>
+		<string>Contra Costa</string>
+		<key>city</key>
+		<string>Richmond</string>
+		<key>school</key>
+		<string>De Anza</string>
+		<key>mascot</key>
+		<string>Dons</string>
+		<key>address</key>
+		<string>5000 Valley View Rd</string>
+		<key>phone</key>
+		<string>510-223-3811</string>
+		<key>lat</key>
+		<string>37.967874</string>
+		<key>lon</key>
+		<string>-122.288134</string>
+	</dict>	
+	<key>45</key>	
+	<dict>	
+		<key>county</key>
+		<string>Contra Costa</string>
+		<key>city</key>
+		<string>Richmond</string>
+		<key>school</key>
+		<string>Kennedy</string>
+		<key>mascot</key>
+		<string>Eagles</string>
+		<key>address</key>
+		<string>4300 Cutting Blvd</string>
+		<key>phone</key>
+		<string>510-231-1433</string>
+		<key>lat</key>
+		<string>37.92493</string>
+		<key>lon</key>
+		<string>-122.3286</string>
+	</dict>	
+	<key>46</key>	
+	<dict>	
+		<key>county</key>
+		<string>Contra Costa</string>
+		<key>city</key>
+		<string>Richmond</string>
+		<key>school</key>
+		<string>Richmond</string>
+		<key>mascot</key>
+		<string>Oilers</string>
+		<key>address</key>
+		<string>1250 23rd St</string>
+		<key>phone</key>
+		<string>510-237-8770</string>
+		<key>lat</key>
+		<string>37.9523634</string>
+		<key>lon</key>
+		<string>-122.3468054</string>
+	</dict>	
+	<key>47</key>	
+	<dict>	
+		<key>county</key>
+		<string>Contra Costa</string>
+		<key>city</key>
+		<string>San Ramon</string>
+		<key>school</key>
+		<string>California</string>
+		<key>mascot</key>
+		<string>Grizzlies</string>
+		<key>address</key>
+		<string>9870 Broadmoor Drive</string>
+		<key>phone</key>
+		<string>925-803-3200</string>
+		<key>lat</key>
+		<string>37.7467108</string>
+		<key>lon</key>
+		<string>-121.9473774</string>
+	</dict>	
+	<key>48</key>	
+	<dict>	
+		<key>county</key>
+		<string>Contra Costa</string>
+		<key>city</key>
+		<string>Walnut Creek</string>
+		<key>school</key>
+		<string>Las Lomas</string>
+		<key>mascot</key>
+		<string>Knights</string>
+		<key>address</key>
+		<string>1480 S. Main St</string>
+		<key>phone</key>
+		<string>925-280-3920</string>
+		<key>lat</key>
+		<string>37.8911257</string>
+		<key>lon</key>
+		<string>-122.0576438</string>
+	</dict>	
+	<key>49</key>	
+	<dict>	
+		<key>county</key>
+		<string>Contra Costa</string>
+		<key>city</key>
+		<string>Walnut Creek</string>
+		<key>school</key>
+		<string>Northgate</string>
+		<key>mascot</key>
+		<string>Broncos</string>
+		<key>address</key>
+		<string>424 Castle Rock Rd</string>
+		<key>phone</key>
+		<string>925-938-0900</string>
+		<key>lat</key>
+		<string>37.9079371</string>
+		<key>lon</key>
+		<string>-122.0069461</string>
+	</dict>	
+	<key>50</key>	
+	<dict>	
+		<key>county</key>
+		<string>Marin</string>
+		<key>city</key>
+		<string>Larkspur</string>
+		<key>school</key>
+		<string>Redwood</string>
+		<key>mascot</key>
+		<string>Giants</string>
+		<key>address</key>
+		<string>395 Doherty Drive</string>
+		<key>phone</key>
+		<string>415-945-3620</string>
+		<key>lat</key>
+		<string>37.9365611</string>
+		<key>lon</key>
+		<string>-122.5235707</string>
+	</dict>	
+	<key>51</key>	
+	<dict>	
+		<key>county</key>
+		<string>Marin</string>
+		<key>city</key>
+		<string>Mill Valley</string>
+		<key>school</key>
+		<string>Tamalpais</string>
+		<key>mascot</key>
+		<string>Red Tailed Hawks</string>
+		<key>address</key>
+		<string>700 Miller Ave</string>
+		<key>phone</key>
+		<string>415-388-3292</string>
+		<key>lat</key>
+		<string>37.8921109</string>
+		<key>lon</key>
+		<string>-122.5302172</string>
+	</dict>	
+	<key>52</key>	
+	<dict>	
+		<key>county</key>
+		<string>Marin</string>
+		<key>city</key>
+		<string>Novato</string>
+		<key>school</key>
+		<string>Novato</string>
+		<key>mascot</key>
+		<string>Hornets</string>
+		<key>address</key>
+		<string>625 Arthur St</string>
+		<key>phone</key>
+		<string>415-898-2125</string>
+		<key>lat</key>
+		<string>38.089108</string>
+		<key>lon</key>
+		<string>-122.573047</string>
+	</dict>	
+	<key>53</key>	
+	<dict>	
+		<key>county</key>
+		<string>Marin</string>
+		<key>city</key>
+		<string>Novato</string>
+		<key>school</key>
+		<string>San Marin</string>
+		<key>mascot</key>
+		<string>Mustangs</string>
+		<key>address</key>
+		<string>15 San Marin Drive</string>
+		<key>phone</key>
+		<string>415-898-2121</string>
+		<key>lat</key>
+		<string>38.120425</string>
+		<key>lon</key>
+		<string>-122.610811</string>
+	</dict>	
+	<key>54</key>	
+	<dict>	
+		<key>county</key>
+		<string>Marin</string>
+		<key>city</key>
+		<string>San Anselmo</string>
+		<key>school</key>
+		<string>Sir Francis Drake</string>
+		<key>mascot</key>
+		<string>Pirates</string>
+		<key>address</key>
+		<string>1327 Sir Francis Drake Blvd</string>
+		<key>phone</key>
+		<string>415-453-8770</string>
+		<key>lat</key>
+		<string>37.983181</string>
+		<key>lon</key>
+		<string>-122.57294</string>
+	</dict>	
+	<key>55</key>	
+	<dict>	
+		<key>county</key>
+		<string>Marin</string>
+		<key>city</key>
+		<string>San Rafael</string>
+		<key>school</key>
+		<string>San Rafael</string>
+		<key>mascot</key>
+		<string>Bulldogs</string>
+		<key>address</key>
+		<string>185 Mission Ave</string>
+		<key>phone</key>
+		<string>415-485-2330</string>
+		<key>lat</key>
+		<string>37.9706029</string>
+		<key>lon</key>
+		<string>-122.512671</string>
+	</dict>	
+	<key>56</key>	
+	<dict>	
+		<key>county</key>
+		<string>Marin</string>
+		<key>city</key>
+		<string>San Rafael</string>
+		<key>school</key>
+		<string>Terra Linda</string>
+		<key>mascot</key>
+		<string>Trojans</string>
+		<key>address</key>
+		<string>320 Nova Albion Way</string>
+		<key>phone</key>
+		<string>415-492-3100</string>
+		<key>lat</key>
+		<string>37.9984782</string>
+		<key>lon</key>
+		<string>-122.553134</string>
+	</dict>	
+	<key>57</key>	
+	<dict>	
+		<key>county</key>
+		<string>San Francisco</string>
+		<key>city</key>
+		<string>San Francisco</string>
+		<key>school</key>
+		<string>Abraham Lincoln</string>
+		<key>mascot</key>
+		<string>Mustangs</string>
+		<key>address</key>
+		<string>2162 24th Ave</string>
+		<key>phone</key>
+		<string>415-759-2700</string>
+		<key>lat</key>
+		<string>37.7482168</string>
+		<key>lon</key>
+		<string>-122.4811462</string>
+	</dict>	
+	<key>58</key>	
+	<dict>	
+		<key>county</key>
+		<string>San Francisco</string>
+		<key>city</key>
+		<string>San Francisco</string>
+		<key>school</key>
+		<string>Balboa</string>
+		<key>mascot</key>
+		<string>Buccaneers</string>
+		<key>address</key>
+		<string>1000 Cayuga Ave</string>
+		<key>phone</key>
+		<string>415-489-4090</string>
+		<key>lat</key>
+		<string>37.722086</string>
+		<key>lon</key>
+		<string>-122.4398055</string>
+	</dict>	
+	<key>59</key>	
+	<dict>	
+		<key>county</key>
+		<string>San Francisco</string>
+		<key>city</key>
+		<string>San Francisco</string>
+		<key>school</key>
+		<string>Galileo</string>
+		<key>mascot</key>
+		<string>Lions</string>
+		<key>address</key>
+		<string>1150 Francisco St</string>
+		<key>phone</key>
+		<string>415-749-3430</string>
+		<key>lat</key>
+		<string>37.8034362</string>
+		<key>lon</key>
+		<string>-122.424013</string>
+	</dict>	
+	<key>60</key>	
+	<dict>	
+		<key>county</key>
+		<string>San Francisco</string>
+		<key>city</key>
+		<string>San Francisco</string>
+		<key>school</key>
+		<string>George Washington</string>
+		<key>mascot</key>
+		<string>Eagles</string>
+		<key>address</key>
+		<string>600 32nd Ave</string>
+		<key>phone</key>
+		<string>415-750-8400</string>
+		<key>lat</key>
+		<string>37.7777914</string>
+		<key>lon</key>
+		<string>-122.4917623</string>
+	</dict>	
+	<key>61</key>	
+	<dict>	
+		<key>county</key>
+		<string>San Francisco</string>
+		<key>city</key>
+		<string>San Francisco</string>
+		<key>school</key>
+		<string>Lowell</string>
+		<key>mascot</key>
+		<string>Cardinals</string>
+		<key>address</key>
+		<string>1101 Eucalyptus Drive</string>
+		<key>phone</key>
+		<string>415-759-2730</string>
+		<key>lat</key>
+		<string>37.7310648</string>
+		<key>lon</key>
+		<string>-122.483552</string>
+	</dict>	
+	<key>62</key>	
+	<dict>	
+		<key>county</key>
+		<string>San Francisco</string>
+		<key>city</key>
+		<string>San Francisco</string>
+		<key>school</key>
+		<string>Mission</string>
+		<key>mascot</key>
+		<string>Bears</string>
+		<key>address</key>
+		<string>3750 18th St</string>
+		<key>phone</key>
+		<string>415-241-6240</string>
+		<key>lat</key>
+		<string>37.762369</string>
+		<key>lon</key>
+		<string>-122.426523</string>
+	</dict>	
+	<key>63</key>	
+	<dict>	
+		<key>county</key>
+		<string>San Mateo</string>
+		<key>city</key>
+		<string>Atherton</string>
+		<key>school</key>
+		<string>Menlo-Atherton</string>
+		<key>mascot</key>
+		<string>Bears</string>
+		<key>address</key>
+		<string>555 Middlefield Rd</string>
+		<key>phone</key>
+		<string>650-322-5311</string>
+		<key>lat</key>
+		<string>37.460767</string>
+		<key>lon</key>
+		<string>-122.1751142</string>
+	</dict>	
+	<key>64</key>	
+	<dict>	
+		<key>county</key>
+		<string>San Mateo</string>
+		<key>city</key>
+		<string>Burlingame</string>
+		<key>school</key>
+		<string>Burlingame</string>
+		<key>mascot</key>
+		<string>Panthers</string>
+		<key>address</key>
+		<string>1 Mangini Way</string>
+		<key>phone</key>
+		<string>650-558-2899</string>
+		<key>lat</key>
+		<string>37.582927</string>
+		<key>lon</key>
+		<string>-122.347456</string>
+	</dict>	
+	<key>65</key>	
+	<dict>	
+		<key>county</key>
+		<string>San Mateo</string>
+		<key>city</key>
+		<string>Daly City</string>
+		<key>school</key>
+		<string>Westmoor</string>
+		<key>mascot</key>
+		<string>Rams</string>
+		<key>address</key>
+		<string>131 Westmoor Ave</string>
+		<key>phone</key>
+		<string>650-550-7400</string>
+		<key>lat</key>
+		<string>37.6836671</string>
+		<key>lon</key>
+		<string>-122.4820657</string>
+	</dict>	
+	<key>66</key>	
+	<dict>	
+		<key>county</key>
+		<string>San Mateo</string>
+		<key>city</key>
+		<string>Daly City</string>
+		<key>school</key>
+		<string>Jefferson</string>
+		<key>mascot</key>
+		<string>Indians</string>
+		<key>address</key>
+		<string>6996 Mission St</string>
+		<key>phone</key>
+		<string>650-550-7700</string>
+		<key>lat</key>
+		<string>37.695537</string>
+		<key>lon</key>
+		<string>-122.46593</string>
+	</dict>	
+	<key>67</key>	
+	<dict>	
+		<key>county</key>
+		<string>San Mateo</string>
+		<key>city</key>
+		<string>Half Moon Bay</string>
+		<key>school</key>
+		<string>Half Moon Bay</string>
+		<key>mascot</key>
+		<string>Cougars</string>
+		<key>address</key>
+		<string>Lewis Foster Drive</string>
+		<key>phone</key>
+		<string>650-712-7200</string>
+		<key>lat</key>
+		<string>37.4710743</string>
+		<key>lon</key>
+		<string>-122.4287784</string>
+	</dict>	
+	<key>68</key>	
+	<dict>	
+		<key>county</key>
+		<string>San Mateo</string>
+		<key>city</key>
+		<string>Millbrae</string>
+		<key>school</key>
+		<string>Mills</string>
+		<key>mascot</key>
+		<string>Vikings</string>
+		<key>address</key>
+		<string>400 Murchison Drive</string>
+		<key>phone</key>
+		<string>650-558-2599</string>
+		<key>lat</key>
+		<string>37.595192</string>
+		<key>lon</key>
+		<string>-122.390227</string>
+	</dict>	
+	<key>69</key>	
+	<dict>	
+		<key>county</key>
+		<string>San Mateo</string>
+		<key>city</key>
+		<string>Pacifica</string>
+		<key>school</key>
+		<string>Terra Nova</string>
+		<key>mascot</key>
+		<string>Tigers</string>
+		<key>address</key>
+		<string>1450 Terra Nova Blvd</string>
+		<key>phone</key>
+		<string>650-550-7600</string>
+		<key>lat</key>
+		<string>37.596977</string>
+		<key>lon</key>
+		<string>-122.478007</string>
+	</dict>	
+	<key>70</key>	
+	<dict>	
+		<key>county</key>
+		<string>San Mateo</string>
+		<key>city</key>
+		<string>Redwood City</string>
+		<key>school</key>
+		<string>Sequoia</string>
+		<key>mascot</key>
+		<string>Cherokees</string>
+		<key>address</key>
+		<string>1201 Brewster Ave</string>
+		<key>phone</key>
+		<string>650-367-9780</string>
+		<key>lat</key>
+		<string>37.4841157</string>
+		<key>lon</key>
+		<string>-122.2398605</string>
+	</dict>	
+	<key>71</key>	
+	<dict>	
+		<key>county</key>
+		<string>San Mateo</string>
+		<key>city</key>
+		<string>San Bruno</string>
+		<key>school</key>
+		<string>Capuchino</string>
+		<key>mascot</key>
+		<string>Mustangs</string>
+		<key>address</key>
+		<string>1501 Magnolia</string>
+		<key>phone</key>
+		<string>650-558-2799</string>
+		<key>lat</key>
+		<string>37.609993</string>
+		<key>lon</key>
+		<string>-122.40689</string>
+	</dict>	
+	<key>72</key>	
+	<dict>	
+		<key>county</key>
+		<string>San Mateo</string>
+		<key>city</key>
+		<string>San Mateo</string>
+		<key>school</key>
+		<string>Aragon</string>
+		<key>mascot</key>
+		<string>Dons</string>
+		<key>address</key>
+		<string>900 Alameda De Las Pulgas</string>
+		<key>phone</key>
+		<string>650-558-2999</string>
+		<key>lat</key>
+		<string>37.550323</string>
+		<key>lon</key>
+		<string>-122.329391</string>
+	</dict>	
+	<key>73</key>	
+	<dict>	
+		<key>county</key>
+		<string>San Mateo</string>
+		<key>city</key>
+		<string>San Mateo</string>
+		<key>school</key>
+		<string>Hillsdale</string>
+		<key>mascot</key>
+		<string>Knights</string>
+		<key>address</key>
+		<string>3115 Del Monte St</string>
+		<key>phone</key>
+		<string>650-558-2699</string>
+		<key>lat</key>
+		<string>37.5317754</string>
+		<key>lon</key>
+		<string>-122.3141801</string>
+	</dict>	
+	<key>74</key>	
+	<dict>	
+		<key>county</key>
+		<string>San Mateo</string>
+		<key>city</key>
+		<string>San Mateo</string>
+		<key>school</key>
+		<string>San Mateo</string>
+		<key>mascot</key>
+		<string>Bearcats</string>
+		<key>address</key>
+		<string>506 N. Delaware St</string>
+		<key>phone</key>
+		<string>650-558-2399</string>
+		<key>lat</key>
+		<string>37.5767555</string>
+		<key>lon</key>
+		<string>-122.330238</string>
+	</dict>	
+	<key>75</key>	
+	<dict>	
+		<key>county</key>
+		<string>San Mateo</string>
+		<key>city</key>
+		<string>South San Francisco</string>
+		<key>school</key>
+		<string>El Camino</string>
+		<key>mascot</key>
+		<string>Colts</string>
+		<key>address</key>
+		<string>1320 Mission Rd</string>
+		<key>phone</key>
+		<string>650-877-8806</string>
+		<key>lat</key>
+		<string>37.666935</string>
+		<key>lon</key>
+		<string>-122.441183</string>
+	</dict>	
+	<key>76</key>	
+	<dict>	
+		<key>county</key>
+		<string>San Mateo</string>
+		<key>city</key>
+		<string>South San Francisco</string>
+		<key>school</key>
+		<string>S. San Francisco</string>
+		<key>mascot</key>
+		<string>Warriors</string>
+		<key>address</key>
+		<string>400 B St</string>
+		<key>phone</key>
+		<string>650-877-8754</string>
+		<key>lat</key>
+		<string>37.647888</string>
+		<key>lon</key>
+		<string>-122.426592</string>
+	</dict>	
+	<key>77</key>	
+	<dict>	
+		<key>county</key>
+		<string>San Mateo</string>
+		<key>city</key>
+		<string>Woodside</string>
+		<key>school</key>
+		<string>Woodside</string>
+		<key>mascot</key>
+		<string>Wildcats</string>
+		<key>address</key>
+		<string>199 Churchill Ave</string>
+		<key>phone</key>
+		<string>650-367-9750</string>
+		<key>lat</key>
+		<string>37.44476</string>
+		<key>lon</key>
+		<string>-122.232852</string>
+	</dict>	
+	<key>78</key>	
+	<dict>	
+		<key>county</key>
+		<string>Santa Clara</string>
+		<key>city</key>
+		<string>Campbell</string>
+		<key>school</key>
+		<string>Westmont</string>
+		<key>mascot</key>
+		<string>Warriors</string>
+		<key>address</key>
+		<string>4805 Westmont Ave</string>
+		<key>phone</key>
+		<string>408-378-1500</string>
+		<key>lat</key>
+		<string>37.2703068</string>
+		<key>lon</key>
+		<string>-121.9855195</string>
+	</dict>	
+	<key>79</key>	
+	<dict>	
+		<key>county</key>
+		<string>Santa Clara</string>
+		<key>city</key>
+		<string>Cupertino</string>
+		<key>school</key>
+		<string>Cupertino</string>
+		<key>mascot</key>
+		<string>Pioneers</string>
+		<key>address</key>
+		<string>10100 Finch Ave</string>
+		<key>phone</key>
+		<string>408-366-7300</string>
+		<key>lat</key>
+		<string>37.319696</string>
+		<key>lon</key>
+		<string>-122.00907</string>
+	</dict>	
+	<key>80</key>	
+	<dict>	
+		<key>county</key>
+		<string>Santa Clara</string>
+		<key>city</key>
+		<string>Cupertino</string>
+		<key>school</key>
+		<string>Homestead</string>
+		<key>mascot</key>
+		<string>Mustangs</string>
+		<key>address</key>
+		<string>21370 Homestead Rd</string>
+		<key>phone</key>
+		<string>408-522-2500</string>
+		<key>lat</key>
+		<string>37.3373316</string>
+		<key>lon</key>
+		<string>-122.0497374</string>
+	</dict>	
+	<key>81</key>	
+	<dict>	
+		<key>county</key>
+		<string>Santa Clara</string>
+		<key>city</key>
+		<string>Cupertino</string>
+		<key>school</key>
+		<string>Monta Vista</string>
+		<key>mascot</key>
+		<string>Matadors</string>
+		<key>address</key>
+		<string>21840 McClellan Rd</string>
+		<key>phone</key>
+		<string>408-366-7600</string>
+		<key>lat</key>
+		<string>37.315448</string>
+		<key>lon</key>
+		<string>-122.056646</string>
+	</dict>	
+	<key>82</key>	
+	<dict>	
+		<key>county</key>
+		<string>Santa Clara</string>
+		<key>city</key>
+		<string>Gilroy</string>
+		<key>school</key>
+		<string>Gilroy</string>
+		<key>mascot</key>
+		<string>Mustangs</string>
+		<key>address</key>
+		<string>750 W. 10th St</string>
+		<key>phone</key>
+		<string>408-847-2424</string>
+		<key>lat</key>
+		<string>36.996352</string>
+		<key>lon</key>
+		<string>-121.575271</string>
+	</dict>	
+	<key>83</key>	
+	<dict>	
+		<key>county</key>
+		<string>Santa Clara</string>
+		<key>city</key>
+		<string>Los Altos</string>
+		<key>school</key>
+		<string>Los Altos</string>
+		<key>mascot</key>
+		<string>Eagles</string>
+		<key>address</key>
+		<string>201 Almond Ave</string>
+		<key>phone</key>
+		<string>650-968-6571</string>
+		<key>lat</key>
+		<string>37.386802</string>
+		<key>lon</key>
+		<string>-122.109091</string>
+	</dict>	
+	<key>84</key>	
+	<dict>	
+		<key>county</key>
+		<string>Santa Clara</string>
+		<key>city</key>
+		<string>Los Gatos</string>
+		<key>school</key>
+		<string>Los Gatos</string>
+		<key>mascot</key>
+		<string>Wildcats</string>
+		<key>address</key>
+		<string>20 High School St</string>
+		<key>phone</key>
+		<string>408-354-2730</string>
+		<key>lat</key>
+		<string>37.2238747</string>
+		<key>lon</key>
+		<string>-121.9762882</string>
+	</dict>	
+	<key>85</key>	
+	<dict>	
+		<key>county</key>
+		<string>Santa Clara</string>
+		<key>city</key>
+		<string>Milpitas</string>
+		<key>school</key>
+		<string>Milpitas</string>
+		<key>mascot</key>
+		<string>Trojans</string>
+		<key>address</key>
+		<string>1285 Escuela Pkwy</string>
+		<key>phone</key>
+		<string>408-945-5500</string>
+		<key>lat</key>
+		<string>37.4511809</string>
+		<key>lon</key>
+		<string>-121.900199</string>
+	</dict>	
+	<key>86</key>	
+	<dict>	
+		<key>county</key>
+		<string>Santa Clara</string>
+		<key>city</key>
+		<string>Morgan Hill</string>
+		<key>school</key>
+		<string>Ann Sobrato</string>
+		<key>mascot</key>
+		<string></string>
+		<key>address</key>
+		<string>401 Burnett Ave</string>
+		<key>phone</key>
+		<string>408-201-6200</string>
+		<key>lat</key>
+		<string>37.158903</string>
+		<key>lon</key>
+		<string>-121.670427</string>
+	</dict>	
+	<key>87</key>	
+	<dict>	
+		<key>county</key>
+		<string>Santa Clara</string>
+		<key>city</key>
+		<string>Morgan Hill</string>
+		<key>school</key>
+		<string>Live Oak</string>
+		<key>mascot</key>
+		<string>Acorns</string>
+		<key>address</key>
+		<string>1505 E. Main Ave</string>
+		<key>phone</key>
+		<string>408-201-6100</string>
+		<key>lat</key>
+		<string>37.149012</string>
+		<key>lon</key>
+		<string>-121.636424</string>
+	</dict>	
+	<key>88</key>	
+	<dict>	
+		<key>county</key>
+		<string>Santa Clara</string>
+		<key>city</key>
+		<string>Mountain View</string>
+		<key>school</key>
+		<string>Mountain View</string>
+		<key>mascot</key>
+		<string>Spartans</string>
+		<key>address</key>
+		<string>3535 Truman Ave</string>
+		<key>phone</key>
+		<string>650-940-4600</string>
+		<key>lat</key>
+		<string>37.3602826</string>
+		<key>lon</key>
+		<string>-122.0686423</string>
+	</dict>	
+	<key>89</key>	
+	<dict>	
+		<key>county</key>
+		<string>Santa Clara</string>
+		<key>city</key>
+		<string>Palo Alto</string>
+		<key>school</key>
+		<string>Henry M. Gunn</string>
+		<key>mascot</key>
+		<string>Titans</string>
+		<key>address</key>
+		<string>780 Astradero Rd</string>
+		<key>phone</key>
+		<string>650-354-8200</string>
+		<key>lat</key>
+		<string>37.4005241</string>
+		<key>lon</key>
+		<string>-122.1324125</string>
+	</dict>	
+	<key>90</key>	
+	<dict>	
+		<key>county</key>
+		<string>Santa Clara</string>
+		<key>city</key>
+		<string>Palo Alto</string>
+		<key>school</key>
+		<string>Palo Alto</string>
+		<key>mascot</key>
+		<string>Vikings</string>
+		<key>address</key>
+		<string>50 Embarcadero Rd</string>
+		<key>phone</key>
+		<string>650-329-3701</string>
+		<key>lat</key>
+		<string>37.4373743</string>
+		<key>lon</key>
+		<string>-122.1577085</string>
+	</dict>	
+	<key>91</key>	
+	<dict>	
+		<key>county</key>
+		<string>Santa Clara</string>
+		<key>city</key>
+		<string>San Jose</string>
+		<key>school</key>
+		<string>Abraham Lincoln</string>
+		<key>mascot</key>
+		<string>Lions</string>
+		<key>address</key>
+		<string>555 Dana Ave</string>
+		<key>phone</key>
+		<string>408-535-6300</string>
+		<key>lat</key>
+		<string>37.327419</string>
+		<key>lon</key>
+		<string>-121.924713</string>
+	</dict>	
+	<key>92</key>	
+	<dict>	
+		<key>county</key>
+		<string>Santa Clara</string>
+		<key>city</key>
+		<string>San Jose</string>
+		<key>school</key>
+		<string>Branham</string>
+		<key>mascot</key>
+		<string>Bruin Bears</string>
+		<key>address</key>
+		<string>1570 Branham Ln</string>
+		<key>phone</key>
+		<string>408-265-8440</string>
+		<key>lat</key>
+		<string>37.2530586</string>
+		<key>lon</key>
+		<string>-121.898164</string>
+	</dict>	
+	<key>93</key>	
+	<dict>	
+		<key>county</key>
+		<string>Santa Clara</string>
+		<key>city</key>
+		<string>San Jose</string>
+		<key>school</key>
+		<string>Del Mar</string>
+		<key>mascot</key>
+		<string>The Don</string>
+		<key>address</key>
+		<string>1224 Del Mar Ave</string>
+		<key>phone</key>
+		<string>408-298-0260</string>
+		<key>lat</key>
+		<string>37.303894</string>
+		<key>lon</key>
+		<string>-121.926763</string>
+	</dict>	
+	<key>94</key>	
+	<dict>	
+		<key>county</key>
+		<string>Santa Clara</string>
+		<key>city</key>
+		<string>San Jose</string>
+		<key>school</key>
+		<string>Evergreen Valley</string>
+		<key>mascot</key>
+		<string></string>
+		<key>address</key>
+		<string>3300 Quimby Rd</string>
+		<key>phone</key>
+		<string>408-347-7000</string>
+		<key>lat</key>
+		<string>37.324731</string>
+		<key>lon</key>
+		<string>-121.7801</string>
+	</dict>	
+	<key>95</key>	
+	<dict>	
+		<key>county</key>
+		<string>Santa Clara</string>
+		<key>city</key>
+		<string>San Jose</string>
+		<key>school</key>
+		<string>James Lick</string>
+		<key>mascot</key>
+		<string>Comets</string>
+		<key>address</key>
+		<string>57 N. White Rd</string>
+		<key>phone</key>
+		<string>408-347-7000</string>
+		<key>lat</key>
+		<string>37.365612</string>
+		<key>lon</key>
+		<string>-121.829184</string>
+	</dict>	
+	<key>96</key>	
+	<dict>	
+		<key>county</key>
+		<string>Santa Clara</string>
+		<key>city</key>
+		<string>San Jose</string>
+		<key>school</key>
+		<string>Leigh</string>
+		<key>mascot</key>
+		<string>Longhorns</string>
+		<key>address</key>
+		<string>5210 Leigh Ave</string>
+		<key>phone</key>
+		<string>408-377-4470</string>
+		<key>lat</key>
+		<string>37.2432574</string>
+		<key>lon</key>
+		<string>-121.922486</string>
+	</dict>	
+	<key>97</key>	
+	<dict>	
+		<key>county</key>
+		<string>Santa Clara</string>
+		<key>city</key>
+		<string>San Jose</string>
+		<key>school</key>
+		<string>Leland</string>
+		<key>mascot</key>
+		<string>Chargers</string>
+		<key>address</key>
+		<string>6677 Camden Ave</string>
+		<key>phone</key>
+		<string>408-535-6290</string>
+		<key>lat</key>
+		<string>37.216309</string>
+		<key>lon</key>
+		<string>-121.8434644</string>
+	</dict>	
+	<key>98</key>	
+	<dict>	
+		<key>county</key>
+		<string>Santa Clara</string>
+		<key>city</key>
+		<string>San Jose</string>
+		<key>school</key>
+		<string>Lynbrook</string>
+		<key>mascot</key>
+		<string>Vikings</string>
+		<key>address</key>
+		<string>1280 Johnson Ave</string>
+		<key>phone</key>
+		<string>408-366-7700</string>
+		<key>lat</key>
+		<string>37.3018476</string>
+		<key>lon</key>
+		<string>-122.006027</string>
+	</dict>	
+	<key>99</key>	
+	<dict>	
+		<key>county</key>
+		<string>Santa Clara</string>
+		<key>city</key>
+		<string>San Jose</string>
+		<key>school</key>
+		<string>Pioneer</string>
+		<key>mascot</key>
+		<string>Mustangs</string>
+		<key>address</key>
+		<string>1290 Blossom Hill Rd</string>
+		<key>phone</key>
+		<string>408-535-6310</string>
+		<key>lat</key>
+		<string>37.2477152</string>
+		<key>lon</key>
+		<string>-121.8835597</string>
+	</dict>	
+	<key>100</key>	
+	<dict>	
+		<key>county</key>
+		<string>Santa Clara</string>
+		<key>city</key>
+		<string>San Jose</string>
+		<key>school</key>
+		<string>William C. Overfelt</string>
+		<key>mascot</key>
+		<string>Royals</string>
+		<key>address</key>
+		<string>1835 Cunningham Ave</string>
+		<key>phone</key>
+		<string>408-347-7000</string>
+		<key>lat</key>
+		<string>37.3319199</string>
+		<key>lon</key>
+		<string>-121.829906</string>
+	</dict>	
+	<key>101</key>	
+	<dict>	
+		<key>county</key>
+		<string>Santa Clara</string>
+		<key>city</key>
+		<string>San Jose</string>
+		<key>school</key>
+		<string>Willow Glen</string>
+		<key>mascot</key>
+		<string>Rams</string>
+		<key>address</key>
+		<string>2001 Cottle Ave</string>
+		<key>phone</key>
+		<string>408-535-6330</string>
+		<key>lat</key>
+		<string>37.290836</string>
+		<key>lon</key>
+		<string>-121.89772</string>
+	</dict>	
+	<key>102</key>	
+	<dict>	
+		<key>county</key>
+		<string>Santa Clara</string>
+		<key>city</key>
+		<string>Santa Clara</string>
+		<key>school</key>
+		<string>Adrian Wilcox</string>
+		<key>mascot</key>
+		<string>Chargers</string>
+		<key>address</key>
+		<string>3250 Monroe St</string>
+		<key>phone</key>
+		<string>408-423-2400</string>
+		<key>lat</key>
+		<string>37.3663572</string>
+		<key>lon</key>
+		<string>-121.9881416</string>
+	</dict>	
+	<key>103</key>	
+	<dict>	
+		<key>county</key>
+		<string>Santa Clara</string>
+		<key>city</key>
+		<string>Santa Clara</string>
+		<key>school</key>
+		<string>Santa Clara</string>
+		<key>mascot</key>
+		<string>Bruins</string>
+		<key>address</key>
+		<string>3000 Benton St</string>
+		<key>phone</key>
+		<string>408-423-2600</string>
+		<key>lat</key>
+		<string>37.3460701</string>
+		<key>lon</key>
+		<string>-121.9826871</string>
+	</dict>	
+	<key>104</key>	
+	<dict>	
+		<key>county</key>
+		<string>Santa Clara</string>
+		<key>city</key>
+		<string>Saratoga</string>
+		<key>school</key>
+		<string>Prospect</string>
+		<key>mascot</key>
+		<string>Panthers</string>
+		<key>address</key>
+		<string>18900 Prospect Rd</string>
+		<key>phone</key>
+		<string>408-253-1662</string>
+		<key>lat</key>
+		<string>37.292388</string>
+		<key>lon</key>
+		<string>-122.0010188</string>
+	</dict>	
+	<key>105</key>	
+	<dict>	
+		<key>county</key>
+		<string>Santa Clara</string>
+		<key>city</key>
+		<string>Saratoga</string>
+		<key>school</key>
+		<string>Saratoga</string>
+		<key>mascot</key>
+		<string>Falcons</string>
+		<key>address</key>
+		<string>20300 Herriman Ave</string>
+		<key>phone</key>
+		<string>408-867-3411</string>
+		<key>lat</key>
+		<string>37.266336</string>
+		<key>lon</key>
+		<string>-122.0296534</string>
+	</dict>	
+	<key>106</key>	
+	<dict>	
+		<key>county</key>
+		<string>Santa Clara</string>
+		<key>city</key>
+		<string>Sunnyvale</string>
+		<key>school</key>
+		<string>Fremont</string>
+		<key>mascot</key>
+		<string>Firebirds</string>
+		<key>address</key>
+		<string>1279 Sunnyvale-Saratoga Rd</string>
+		<key>phone</key>
+		<string>408-522-2400</string>
+		<key>lat</key>
+		<string>37.352471</string>
+		<key>lon</key>
+		<string>-122.0360038</string>
+	</dict>	
+	<key>107</key>	
+	<dict>	
+		<key>county</key>
+		<string>Solano</string>
+		<key>city</key>
+		<string>Benicia</string>
+		<key>school</key>
+		<string>Benicia</string>
+		<key>mascot</key>
+		<string>Panthers</string>
+		<key>address</key>
+		<string>1101 Military West</string>
+		<key>phone</key>
+		<string>707-747-8235</string>
+		<key>lat</key>
+		<string>38.0646567</string>
+		<key>lon</key>
+		<string>-122.176298</string>
+	</dict>	
+	<key>108</key>	
+	<dict>	
+		<key>county</key>
+		<string>Solano</string>
+		<key>city</key>
+		<string>Dixon</string>
+		<key>school</key>
+		<string>Dixon</string>
+		<key>mascot</key>
+		<string>Rams</string>
+		<key>address</key>
+		<string>555 College Way</string>
+		<key>phone</key>
+		<string>916-678-2391</string>
+		<key>lat</key>
+		<string>38.4365425</string>
+		<key>lon</key>
+		<string>-121.8174278</string>
+	</dict>	
+	<key>109</key>	
+	<dict>	
+		<key>county</key>
+		<string>Solano</string>
+		<key>city</key>
+		<string>Fairfield</string>
+		<key>school</key>
+		<string>Armijo</string>
+		<key>mascot</key>
+		<string>Indians</string>
+		<key>address</key>
+		<string>824 Washington St</string>
+		<key>phone</key>
+		<string>707-422-7500</string>
+		<key>lat</key>
+		<string>38.2511941</string>
+		<key>lon</key>
+		<string>-122.0390142</string>
+	</dict>	
+	<key>110</key>	
+	<dict>	
+		<key>county</key>
+		<string>Solano</string>
+		<key>city</key>
+		<string>Fairfield</string>
+		<key>school</key>
+		<string>Fairfield</string>
+		<key>mascot</key>
+		<string>Falcons</string>
+		<key>address</key>
+		<string>205 E. Atlantic Ave</string>
+		<key>phone</key>
+		<string>707-438-3000</string>
+		<key>lat</key>
+		<string>38.2758801</string>
+		<key>lon</key>
+		<string>-122.0310158</string>
+	</dict>	
+	<key>111</key>	
+	<dict>	
+		<key>county</key>
+		<string>Solano</string>
+		<key>city</key>
+		<string>Fairfield</string>
+		<key>school</key>
+		<string>Vanden</string>
+		<key>mascot</key>
+		<string>Vikings</string>
+		<key>address</key>
+		<string>2951 Markeley Ln</string>
+		<key>phone</key>
+		<string>707-537-8270</string>
+		<key>lat</key>
+		<string>38.2832345</string>
+		<key>lon</key>
+		<string>-121.9692957</string>
+	</dict>	
+	<key>112</key>	
+	<dict>	
+		<key>county</key>
+		<string>Solano</string>
+		<key>city</key>
+		<string>Rio Vista</string>
+		<key>school</key>
+		<string>Rio Vista</string>
+		<key>mascot</key>
+		<string>Rams</string>
+		<key>address</key>
+		<string>410 S. 4th St</string>
+		<key>phone</key>
+		<string>707-374-6336</string>
+		<key>lat</key>
+		<string>38.1545842</string>
+		<key>lon</key>
+		<string>-121.6976537</string>
+	</dict>	
+	<key>113</key>	
+	<dict>	
+		<key>county</key>
+		<string>Solano</string>
+		<key>city</key>
+		<string>Vacaville</string>
+		<key>school</key>
+		<string>Vacaville</string>
+		<key>mascot</key>
+		<string>Bulldogs</string>
+		<key>address</key>
+		<string>100 Monte Vista Ave</string>
+		<key>phone</key>
+		<string>707-453-6011</string>
+		<key>lat</key>
+		<string>38.3590743</string>
+		<key>lon</key>
+		<string>-121.9921124</string>
+	</dict>	
+	<key>114</key>	
+	<dict>	
+		<key>county</key>
+		<string>Solano</string>
+		<key>city</key>
+		<string>Vacaville</string>
+		<key>school</key>
+		<string>Will C. Wood</string>
+		<key>mascot</key>
+		<string>Wildcats</string>
+		<key>address</key>
+		<string>998 Marshall Rd</string>
+		<key>phone</key>
+		<string>707-453-6900</string>
+		<key>lat</key>
+		<string>38.3462942</string>
+		<key>lon</key>
+		<string>-121.9742544</string>
+	</dict>	
+	<key>115</key>	
+	<dict>	
+		<key>county</key>
+		<string>Solano</string>
+		<key>city</key>
+		<string>Vallejo</string>
+		<key>school</key>
+		<string>Hogan</string>
+		<key>mascot</key>
+		<string>Spartans</string>
+		<key>address</key>
+		<string>850 Rosewood Ave</string>
+		<key>phone</key>
+		<string>707-556-3510</string>
+		<key>lat</key>
+		<string>38.1009654</string>
+		<key>lon</key>
+		<string>-122.2158007</string>
+	</dict>	
+	<key>116</key>	
+	<dict>	
+		<key>county</key>
+		<string>Solano</string>
+		<key>city</key>
+		<string>Vallejo</string>
+		<key>school</key>
+		<string>Jesse M. Bethel</string>
+		<key>mascot</key>
+		<string></string>
+		<key>address</key>
+		<string>1800 Ascot Pkwy</string>
+		<key>phone</key>
+		<string>707-556-5700</string>
+		<key>lat</key>
+		<string>38.1201171</string>
+		<key>lon</key>
+		<string>-122.2051923</string>
+	</dict>	
+	<key>117</key>	
+	<dict>	
+		<key>county</key>
+		<string>Solano</string>
+		<key>city</key>
+		<string>Vallejo</string>
+		<key>school</key>
+		<string>Vallejo</string>
+		<key>mascot</key>
+		<string>Apaches</string>
+		<key>address</key>
+		<string>840 Nebraska St</string>
+		<key>phone</key>
+		<string>707-556-1700</string>
+		<key>lat</key>
+		<string>38.1136413</string>
+		<key>lon</key>
+		<string>-122.2454939</string>
+	</dict>	
+	<key>118</key>	
+	<dict>	
+		<key>county</key>
+		<string>Sonoma</string>
+		<key>city</key>
+		<string>Cloverdale</string>
+		<key>school</key>
+		<string>Cloverdale</string>
+		<key>mascot</key>
+		<string>Eagles</string>
+		<key>address</key>
+		<string>509 N. Cloverdale Blvd</string>
+		<key>phone</key>
+		<string>707-894-1900</string>
+		<key>lat</key>
+		<string>38.810234</string>
+		<key>lon</key>
+		<string>-123.02311</string>
+	</dict>	
+	<key>119</key>	
+	<dict>	
+		<key>county</key>
+		<string>Sonoma</string>
+		<key>city</key>
+		<string>Forestville</string>
+		<key>school</key>
+		<string>El Molino</string>
+		<key>mascot</key>
+		<string>Lions</string>
+		<key>address</key>
+		<string>7050 Covey Rd</string>
+		<key>phone</key>
+		<string>707-824-6550</string>
+		<key>lat</key>
+		<string>38.481329</string>
+		<key>lon</key>
+		<string>-122.889562</string>
+	</dict>	
+	<key>120</key>	
+	<dict>	
+		<key>county</key>
+		<string>Sonoma</string>
+		<key>city</key>
+		<string>Healdsburg</string>
+		<key>school</key>
+		<string>Healdsburg</string>
+		<key>mascot</key>
+		<string>Greyhounds</string>
+		<key>address</key>
+		<string>1024 Prince St</string>
+		<key>phone</key>
+		<string>707-431-3420</string>
+		<key>lat</key>
+		<string>38.6214373</string>
+		<key>lon</key>
+		<string>-122.8680386</string>
+	</dict>	
+	<key>121</key>	
+	<dict>	
+		<key>county</key>
+		<string>Sonoma</string>
+		<key>city</key>
+		<string>Petaluma</string>
+		<key>school</key>
+		<string>Casa Grande</string>
+		<key>mascot</key>
+		<string>Gauchos</string>
+		<key>address</key>
+		<string>333 Casa Grande Rd</string>
+		<key>phone</key>
+		<string>707-778-4677</string>
+		<key>lat</key>
+		<string>38.2424424</string>
+		<key>lon</key>
+		<string>-122.5979996</string>
+	</dict>	
+	<key>122</key>	
+	<dict>	
+		<key>county</key>
+		<string>Sonoma</string>
+		<key>city</key>
+		<string>Petaluma</string>
+		<key>school</key>
+		<string>Petaluma</string>
+		<key>mascot</key>
+		<string>Trojans</string>
+		<key>address</key>
+		<string>201 Fair St</string>
+		<key>phone</key>
+		<string>707-778-4651</string>
+		<key>lat</key>
+		<string>38.227806</string>
+		<key>lon</key>
+		<string>-122.646233</string>
+	</dict>	
+	<key>123</key>	
+	<dict>	
+		<key>county</key>
+		<string>Sonoma</string>
+		<key>city</key>
+		<string>Rohnert Park</string>
+		<key>school</key>
+		<string>Rancho Cotate</string>
+		<key>mascot</key>
+		<string>Cougars</string>
+		<key>address</key>
+		<string>5450 Snyder Ln</string>
+		<key>phone</key>
+		<string>707-792-4750</string>
+		<key>lat</key>
+		<string>38.3410981</string>
+		<key>lon</key>
+		<string>-122.6854465</string>
+	</dict>	
+	<key>124</key>	
+	<dict>	
+		<key>county</key>
+		<string>Sonoma</string>
+		<key>city</key>
+		<string>Santa Rosa</string>
+		<key>school</key>
+		<string>Maria Carrillo</string>
+		<key>mascot</key>
+		<string>Pumas</string>
+		<key>address</key>
+		<string>6975 Montecito Blvd</string>
+		<key>phone</key>
+		<string>707-528-5790</string>
+		<key>lat</key>
+		<string>38.480023</string>
+		<key>lon</key>
+		<string>-122.659645</string>
+	</dict>	
+	<key>125</key>	
+	<dict>	
+		<key>county</key>
+		<string>Sonoma</string>
+		<key>city</key>
+		<string>Santa Rosa</string>
+		<key>school</key>
+		<string>Montgomery</string>
+		<key>mascot</key>
+		<string>Vikings</string>
+		<key>address</key>
+		<string>1250 Hahman Drive</string>
+		<key>phone</key>
+		<string>707-328-5191</string>
+		<key>lat</key>
+		<string>38.441405</string>
+		<key>lon</key>
+		<string>-122.683818</string>
+	</dict>	
+	<key>126</key>	
+	<dict>	
+		<key>county</key>
+		<string>Sonoma</string>
+		<key>city</key>
+		<string>Santa Rosa</string>
+		<key>school</key>
+		<string>Piner</string>
+		<key>mascot</key>
+		<string>Prospectors</string>
+		<key>address</key>
+		<string>1700 Fulton Rd</string>
+		<key>phone</key>
+		<string>707-528-5245</string>
+		<key>lat</key>
+		<string>38.4607718</string>
+		<key>lon</key>
+		<string>-122.7696176</string>
+	</dict>	
+	<key>127</key>	
+	<dict>	
+		<key>county</key>
+		<string>Sonoma</string>
+		<key>city</key>
+		<string>Santa Rosa</string>
+		<key>school</key>
+		<string>Santa Rosa</string>
+		<key>mascot</key>
+		<string>Panthers</string>
+		<key>address</key>
+		<string>1235 Mendocino Ave</string>
+		<key>phone</key>
+		<string>707-528-5291</string>
+		<key>lat</key>
+		<string>38.452089</string>
+		<key>lon</key>
+		<string>-122.718439</string>
+	</dict>	
+	<key>128</key>	
+	<dict>	
+		<key>county</key>
+		<string>Sonoma</string>
+		<key>city</key>
+		<string>Sebastopol</string>
+		<key>school</key>
+		<string>Analy</string>
+		<key>mascot</key>
+		<string>Tigers</string>
+		<key>address</key>
+		<string>6950 Analy Ave</string>
+		<key>phone</key>
+		<string>707-824-2300</string>
+		<key>lat</key>
+		<string>38.407514</string>
+		<key>lon</key>
+		<string>-122.824756</string>
+	</dict>	
+	<key>129</key>	
+	<dict>	
+		<key>county</key>
+		<string>Sonoma</string>
+		<key>city</key>
+		<string>Sonoma</string>
+		<key>school</key>
+		<string>Sonoma Valley</string>
+		<key>mascot</key>
+		<string>Dragons</string>
+		<key>address</key>
+		<string>20000 Broadway</string>
+		<key>phone</key>
+		<string>707-933-4010</string>
+		<key>lat</key>
+		<string>38.282931</string>
+		<key>lon</key>
+		<string>-122.45913</string>
+	</dict>	
+	<key>130</key>	
+	<dict>	
+		<key>county</key>
+		<string>Sonoma</string>
+		<key>city</key>
+		<string>Geyserville</string>
+		<key>school</key>
+		<string>Geyserville</string>
+		<key>mascot</key>
+		<string></string>
+		<key>address</key>
+		<string>1300 Moody Ln</string>
+		<key>phone</key>
+		<string>707-857-3592</string>
+		<key>lat</key>
+		<string>38.722004</string>
+		<key>lon</key>
+		<string>-122.89127</string>
+	</dict>	
+	<key>131</key>	
+	<dict>	
+		<key>county</key>
+		<string>Sonoma</string>
+		<key>city</key>
+		<string>Windsor</string>
+		<key>school</key>
+		<string>Windsor</string>
+		<key>mascot</key>
+		<string>Jaguars</string>
+		<key>address</key>
+		<string>8695 Windsor Rd</string>
+		<key>phone</key>
+		<string>707-837-7767</string>
+		<key>lat</key>
+		<string>38.542964</string>
+		<key>lon</key>
+		<string>-122.81684</string>
+	</dict>	
+	<key>132</key>	
+	<dict>	
+		<key>county</key>
+		<string>Sonoma</string>
+		<key>city</key>
+		<string>Santa Rosa</string>
+		<key>school</key>
+		<string>Elsie Allen</string>
+		<key>mascot</key>
+		<string>Lobos</string>
+		<key>address</key>
+		<string>599 Bellevue Ave</string>
+		<key>phone</key>
+		<string>707-528-5020</string>
+		<key>lat</key>
+		<string>38.401864</string>
+		<key>lon</key>
+		<string>-122.73462</string>
+	</dict>	
+	<key>133</key>	
+	<dict>	
+		<key>county</key>
+		<string>Solano</string>
+		<key>city</key>
+		<string>Fairfield</string>
+		<key>school</key>
+		<string>Angelo Rodriguez</string>
+		<key>mascot</key>
+		<string>Mustangs</string>
+		<key>address</key>
+		<string>5000 Red Top Rd</string>
+		<key>phone</key>
+		<string>707-863-7950</string>
+		<key>lat</key>
+		<string>38.199359</string>
+		<key>lon</key>
+		<string>-122.14376</string>
+	</dict>	
+	<key>134</key>	
+	<dict>	
+		<key>county</key>
+		<string>Santa Clara</string>
+		<key>city</key>
+		<string>Gilroy</string>
+		<key>school</key>
+		<string>Christopher</string>
+		<key>mascot</key>
+		<string>Cougars</string>
+		<key>address</key>
+		<string>850 Day Rd</string>
+		<key>phone</key>
+		<string>408-848-7171</string>
+		<key>lat</key>
+		<string>37.036841</string>
+		<key>lon</key>
+		<string>-121.60087</string>
+	</dict>	
+	<key>135</key>	
+	<dict>	
+		<key>county</key>
+		<string>Santa Clara</string>
+		<key>city</key>
+		<string>San Jose</string>
+		<key>school</key>
+		<string>San Jose</string>
+		<key>mascot</key>
+		<string>Bulldogs</string>
+		<key>address</key>
+		<string>275 North 24th St</string>
+		<key>phone</key>
+		<string>408-535-6320</string>
+		<key>lat</key>
+		<string>37.350472</string>
+		<key>lon</key>
+		<string>-121.87119</string>
+	</dict>	
+	<key>136</key>	
+	<dict>	
+		<key>county</key>
+		<string>Santa Clara</string>
+		<key>city</key>
+		<string>San Jose</string>
+		<key>school</key>
+		<string>Gunderson</string>
+		<key>mascot</key>
+		<string>Grizzlies</string>
+		<key>address</key>
+		<string>620 Gaundabert Ln</string>
+		<key>phone</key>
+		<string>408-535-6340</string>
+		<key>lat</key>
+		<string>37.258254</string>
+		<key>lon</key>
+		<string>-121.85268</string>
+	</dict>	
+	<key>137</key>	
+	<dict>	
+		<key>county</key>
+		<string>Santa Clara</string>
+		<key>city</key>
+		<string>San Jose</string>
+		<key>school</key>
+		<string>Silver Creek</string>
+		<key>mascot</key>
+		<string>Raiders</string>
+		<key>address</key>
+		<string>3434 Silver Creek Rd</string>
+		<key>phone</key>
+		<string>408-347-5600</string>
+		<key>lat</key>
+		<string>37.304314</string>
+		<key>lon</key>
+		<string>-121.80834</string>
+	</dict>	
+	<key>138</key>	
+	<dict>	
+		<key>county</key>
+		<string>Santa Clara</string>
+		<key>city</key>
+		<string>San Jose</string>
+		<key>school</key>
+		<string>Yerba Buena</string>
+		<key>mascot</key>
+		<string>Warriors</string>
+		<key>address</key>
+		<string>1855 Lucretia Ave</string>
+		<key>phone</key>
+		<string>408-347-4700</string>
+		<key>lat</key>
+		<string>37.320804</string>
+		<key>lon</key>
+		<string>-121.84828</string>
+	</dict>	
+	<key>139</key>	
+	<dict>	
+		<key>county</key>
+		<string>Santa Clara</string>
+		<key>city</key>
+		<string>San Jose</string>
+		<key>school</key>
+		<string>Mount Pleasant</string>
+		<key>mascot</key>
+		<string>Cardinal</string>
+		<key>address</key>
+		<string>1750 South White Rd</string>
+		<key>phone</key>
+		<string>408-937-2800</string>
+		<key>lat</key>
+		<string>37.345624</string>
+		<key>lon</key>
+		<string>-121.80951</string>
+	</dict>	
+	<key>140</key>	
+	<dict>	
+		<key>county</key>
+		<string>Santa Clara</string>
+		<key>city</key>
+		<string>San Jose</string>
+		<key>school</key>
+		<string>Oak Grove</string>
+		<key>mascot</key>
+		<string>Eagle</string>
+		<key>address</key>
+		<string>285 Blossom Hill Rd</string>
+		<key>phone</key>
+		<string>408-347-6500</string>
+		<key>lat</key>
+		<string>37.251545</string>
+		<key>lon</key>
+		<string>-121.81892</string>
+	</dict>	
+	<key>141</key>	
+	<dict>	
+		<key>county</key>
+		<string>Santa Clara</string>
+		<key>city</key>
+		<string>San Jose</string>
+		<key>school</key>
+		<string>Piedmont Hills</string>
+		<key>mascot</key>
+		<string>Pirates</string>
+		<key>address</key>
+		<string>1377 Piedmont Rd</string>
+		<key>phone</key>
+		<string>408-347-3800</string>
+		<key>lat</key>
+		<string>37.403797</string>
+		<key>lon</key>
+		<string>-121.84896</string>
+	</dict>	
+	<key>142</key>	
+	<dict>	
+		<key>county</key>
+		<string>Santa Clara</string>
+		<key>city</key>
+		<string>San Jose</string>
+		<key>school</key>
+		<string>Andrew P. Hill</string>
+		<key>mascot</key>
+		<string>Falcons</string>
+		<key>address</key>
+		<string>3200 Senter Rd</string>
+		<key>phone</key>
+		<string>408-347-4100</string>
+		<key>lat</key>
+		<string>37.292698</string>
+		<key>lon</key>
+		<string>-121.83060</string>
+	</dict>	
+	<key>143</key>	
+	<dict>	
+		<key>county</key>
+		<string>Santa Clara</string>
+		<key>city</key>
+		<string>San Jose</string>
+		<key>school</key>
+		<string>Santa Teresa</string>
+		<key>mascot</key>
+		<string>St. Bernard</string>
+		<key>address</key>
+		<string>6150 Snell Rd</string>
+		<key>phone</key>
+		<string>408-347-6200</string>
+		<key>lat</key>
+		<string>37.235081</string>
+		<key>lon</key>
+		<string>-121.83054</string>
+	</dict>	
+	<key>144</key>	
+	<dict>	
+		<key>county</key>
+		<string>Santa Clara</string>
+		<key>city</key>
+		<string>San Jose</string>
+		<key>school</key>
+		<string>Independence</string>
+		<key>mascot</key>
+		<string>76ers</string>
+		<key>address</key>
+		<string>1776 Educational Park Dr</string>
+		<key>phone</key>
+		<string>408-928-9500</string>
+		<key>lat</key>
+		<string>37.367780</string>
+		<key>lon</key>
+		<string>-121.85963</string>
+	</dict>	
+	<key>145</key>	
+	<dict>	
+		<key>county</key>
+		<string>San Mateo</string>
+		<key>city</key>
+		<string>Pescadero</string>
+		<key>school</key>
+		<string>Pescadero</string>
+		<key>mascot</key>
+		<string>Vikings</string>
+		<key>address</key>
+		<string>350 Butano Cut Off</string>
+		<key>phone</key>
+		<string>650-879-0274</string>
+		<key>lat</key>
+		<string>37.246836</string>
+		<key>lon</key>
+		<string>-122.36384</string>
+	</dict>	
+	<key>146</key>	
+	<dict>	
+		<key>county</key>
+		<string>San Mateo</string>
+		<key>city</key>
+		<string>Belmont</string>
+		<key>school</key>
+		<string>Carlmont</string>
+		<key>mascot</key>
+		<string>Scots</string>
+		<key>address</key>
+		<string>1400 Alameda de Las Pulgas</string>
+		<key>phone</key>
+		<string>650-595-0210</string>
+		<key>lat</key>
+		<string>37.507600</string>
+		<key>lon</key>
+		<string>-122.28906</string>
+	</dict>	
+	<key>147</key>	
+	<dict>	
+		<key>county</key>
+		<string>San Francisco</string>
+		<key>city</key>
+		<string>San Francisco</string>
+		<key>school</key>
+		<string>John O'Connell</string>
+		<key>mascot</key>
+		<string>Boilermakers</string>
+		<key>address</key>
+		<string>2355 Folsom St</string>
+		<key>phone</key>
+		<string>415-695-5370</string>
+		<key>lat</key>
+		<string>37.759622</string>
+		<key>lon</key>
+		<string>-122.41472</string>
+	</dict>	
+	<key>148</key>	
+	<dict>	
+		<key>county</key>
+		<string>San Francisco</string>
+		<key>city</key>
+		<string>San Francisco</string>
+		<key>school</key>
+		<string>Thurgood Marshall</string>
+		<key>mascot</key>
+		<string>Phoenix</string>
+		<key>address</key>
+		<string>45 Conkling St</string>
+		<key>phone</key>
+		<string>415-695-5612</string>
+		<key>lat</key>
+		<string>37.735690</string>
+		<key>lon</key>
+		<string>-122.40190</string>
+	</dict>	
+	<key>149</key>	
+	<dict>	
+		<key>county</key>
+		<string>Napa</string>
+		<key>city</key>
+		<string>Calistoga</string>
+		<key>school</key>
+		<string>Calistoga</string>
+		<key>mascot</key>
+		<string>Wildcats</string>
+		<key>address</key>
+		<string>1608 Lake St</string>
+		<key>phone</key>
+		<string>707-942-6278</string>
+		<key>lat</key>
+		<string>38.583369</string>
+		<key>lon</key>
+		<string>-122.57988</string>
+	</dict>	
+	<key>150</key>	
+	<dict>	
+		<key>county</key>
+		<string>Napa</string>
+		<key>city</key>
+		<string>Napa</string>
+		<key>school</key>
+		<string>Vintage</string>
+		<key>mascot</key>
+		<string>Crushers</string>
+		<key>address</key>
+		<string>1375 Trower Ave</string>
+		<key>phone</key>
+		<string>707-253-3601</string>
+		<key>lat</key>
+		<string>38.333061</string>
+		<key>lon</key>
+		<string>-122.30375</string>
+	</dict>	
+	<key>151</key>	
+	<dict>	
+		<key>county</key>
+		<string>Napa</string>
+		<key>city</key>
+		<string>Napa</string>
+		<key>school</key>
+		<string>Napa</string>
+		<key>mascot</key>
+		<string>Indians</string>
+		<key>address</key>
+		<string>2475 Jefferson St</string>
+		<key>phone</key>
+		<string>707-253-3711</string>
+		<key>lat</key>
+		<string>38.309083</string>
+		<key>lon</key>
+		<string>-122.29596</string>
+	</dict>	
+	<key>152</key>	
+	<dict>	
+		<key>county</key>
+		<string>Napa</string>
+		<key>city</key>
+		<string>St. Helena</string>
+		<key>school</key>
+		<string>Saint Helena</string>
+		<key>mascot</key>
+		<string>Saints</string>
+		<key>address</key>
+		<string>1401 Grayson Ave</string>
+		<key>phone</key>
+		<string>707-967-2740</string>
+		<key>lat</key>
+		<string>38.496747</string>
+		<key>lon</key>
+		<string>-122.46275</string>
+	</dict>	
+	<key>153</key>	
+	<dict>	
+		<key>county</key>
+		<string>Marin</string>
+		<key>city</key>
+		<string>Tomales</string>
+		<key>school</key>
+		<string>Tomales</string>
+		<key>mascot</key>
+		<string>Braves</string>
+		<key>address</key>
+		<string>3850 Irvin Rd</string>
+		<key>phone</key>
+		<string>707-878-2286</string>
+		<key>lat</key>
+		<string>38.247247</string>
+		<key>lon</key>
+		<string>-122.89540</string>
+	</dict>	
+	<key>154</key>	
+	<dict>	
+		<key>county</key>
+		<string>Contra Costa</string>
+		<key>city</key>
+		<string>El Cerrito</string>
+		<key>school</key>
+		<string>El Cerrito</string>
+		<key>mascot</key>
+		<string>Gauchos</string>
+		<key>address</key>
+		<string>540 Ashbury Ave</string>
+		<key>phone</key>
+		<string>510-231-1437</string>
+		<key>lat</key>
+		<string>37.906800</string>
+		<key>lon</key>
+		<string>-122.29374</string>
+	</dict>	
+	<key>155</key>	
+	<dict>	
+		<key>county</key>
+		<string>Contra Costa</string>
+		<key>city</key>
+		<string>San Pablo</string>
+		<key>school</key>
+		<string>Middle College</string>
+		<key>mascot</key>
+		<string>Panthers</string>
+		<key>address</key>
+		<string>2600 Mission Bell Dr</string>
+		<key>phone</key>
+		<string>510-235-7800</string>
+		<key>lat</key>
+		<string>37.968809</string>
+		<key>lon</key>
+		<string>-122.34202</string>
+	</dict>	
+	<key>156</key>	
+	<dict>	
+		<key>county</key>
+		<string>Contra Costa</string>
+		<key>city</key>
+		<string>San Ramon</string>
+		<key>school</key>
+		<string>Dougherty Valley</string>
+		<key>mascot</key>
+		<string>Wildcats</string>
+		<key>address</key>
+		<string>10550 Albion Rd</string>
+		<key>phone</key>
+		<string>925-479-6400</string>
+		<key>lat</key>
+		<string>37.769447</string>
+		<key>lon</key>
+		<string>-121.90321</string>
+	</dict>	
+	<key>157</key>	
+	<dict>	
+		<key>county</key>
+		<string>Contra Costa</string>
+		<key>city</key>
+		<string>Hercules</string>
+		<key>school</key>
+		<string>Hercules</string>
+		<key>mascot</key>
+		<string>Titans</string>
+		<key>address</key>
+		<string>1900 Refugio Valley Rd</string>
+		<key>phone</key>
+		<string>510-231-1429</string>
+		<key>lat</key>
+		<string>37.999763</string>
+		<key>lon</key>
+		<string>-122.25196</string>
+	</dict>	
+	<key>158</key>	
+	<dict>	
+		<key>county</key>
+		<string>Contra Costa</string>
+		<key>city</key>
+		<string>Lafayette</string>
+		<key>school</key>
+		<string>Acalanes</string>
+		<key>mascot</key>
+		<string>Dons</string>
+		<key>address</key>
+		<string>1200 Pleasant Hill Rd</string>
+		<key>phone</key>
+		<string>925-280-3970</string>
+		<key>lat</key>
+		<string>37.904777</string>
+		<key>lon</key>
+		<string>-122.09761</string>
+	</dict>	
+	<key>159</key>	
+	<dict>	
+		<key>county</key>
+		<string>Alameda</string>
+		<key>city</key>
+		<string>Oakland</string>
+		<key>school</key>
+		<string>Emery Secondary</string>
+		<key>mascot</key>
+		<string>Spartans</string>
+		<key>address</key>
+		<string>915 54th St</string>
+		<key>phone</key>
+		<string>510-601-4963</string>
+		<key>lat</key>
+		<string>37.835665</string>
+		<key>lon</key>
+		<string>-122.28124</string>
+	</dict>	
+	<key>160</key>	
+	<dict>	
+		<key>county</key>
+		<string>Alameda</string>
+		<key>city</key>
+		<string>Pleasanton</string>
+		<key>school</key>
+		<string>Amador Valley</string>
+		<key>mascot</key>
+		<string>Dons</string>
+		<key>address</key>
+		<string>1155 Santa Rita Rd</string>
+		<key>phone</key>
+		<string>925-461-6100</string>
+		<key>lat</key>
+		<string>37.668294</string>
+		<key>lon</key>
+		<string>-121.87324</string>
+	</dict>	
+	<key>161</key>	
+	<dict>	
+		<key>county</key>
+		<string>Alameda</string>
+		<key>city</key>
+		<string>Newark</string>
+		<key>school</key>
+		<string>Newark Memorial</string>
+		<key>mascot</key>
+		<string>Cougars</string>
+		<key>address</key>
+		<string>39375 Cedar Blvd</string>
+		<key>phone</key>
+		<string>510-818-4300</string>
+		<key>lat</key>
+		<string>37.522118</string>
+		<key>lon</key>
+		<string>-122.00175</string>
+	</dict>	
+	<key>162</key>	
+	<dict>	
+		<key>county</key>
+		<string>Alameda</string>
+		<key>city</key>
+		<string>Oakland</string>
+		<key>school</key>
+		<string>Fremont</string>
+		<key>mascot</key>
+		<string>Tigers</string>
+		<key>address</key>
+		<string>4610 Foothill Blvd</string>
+		<key>phone</key>
+		<string>510-434-5257</string>
+		<key>lat</key>
+		<string>37.7744</string>
+		<key>lon</key>
+		<string>-122.209724</string>
+	</dict>	
+	<key>163</key>	
+	<dict>	
+		<key>county</key>
+		<string>Alameda</string>
+		<key>city</key>
+		<string>Oakland</string>
+		<key>school</key>
+		<string>Castlemont</string>
+		<key>mascot</key>
+		<string>Knights</string>
+		<key>address</key>
+		<string>8601 MacArthur Blvd</string>
+		<key>phone</key>
+		<string>510-636-1466</string>
+		<key>lat</key>
+		<string>37.759536</string>
+		<key>lon</key>
+		<string>-122.1629132</string>
+	</dict>	
+	<key>164</key>	
+	<dict>	
+		<key>county</key>
+		<string>Alameda</string>
+		<key>city</key>
+		<string>Oakland</string>
+		<key>school</key>
+		<string>McClymonds</string>
+		<key>mascot</key>
+		<string>Warriors</string>
+		<key>address</key>
+		<string>2607 Myrtle St</string>
+		<key>phone</key>
+		<string>510-879-3033</string>
+		<key>lat</key>
+		<string>37.817852</string>
+		<key>lon</key>
+		<string>-122.27860</string>
+	</dict>	
+	<key>165</key>	
+	<dict>	
+		<key>county</key>
+		<string>Alameda</string>
+		<key>city</key>
+		<string>Oakland</string>
+		<key>school</key>
+		<string>MetWest</string>
+		<key>mascot</key>
+		<string></string>
+		<key>address</key>
+		<string>1100 3rd Ave</string>
+		<key>phone</key>
+		<string>510-451-5902</string>
+		<key>lat</key>
+		<string>37.795210</string>
+		<key>lon</key>
+		<string>-122.25810</string>
+	</dict>	
+</dict>
+</plist>
