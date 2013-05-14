@@ -38,8 +38,6 @@
     }
     [retVal appendString:@"HS"];
     return (NSString *)retVal;
-    
-    
 }
 
 - (void)viewDidLoad
@@ -54,12 +52,13 @@
     
     touchGesture.numberOfTapsRequired = 1;
     touchGesture.numberOfTouchesRequired = 1;
-    CLLocationDegrees lat = 37.92493;
-    CLLocationDegrees lon = -122.3286;
-    CLLocationCoordinate2D centerCoord = CLLocationCoordinate2DMake(lat, lon);
-    self.mapView.region = MKCoordinateRegionMake(centerCoord, MKCoordinateSpanMake(1.0, 1.0));
+    
     [self.view addGestureRecognizer:touchGesture];
     if (self.showAll) {
+        CLLocationDegrees lat = 37.92493;
+        CLLocationDegrees lon = -122.3286;
+        CLLocationCoordinate2D centerCoord = CLLocationCoordinate2DMake(lat, lon);
+        self.mapView.region = MKCoordinateRegionMake(centerCoord, MKCoordinateSpanMake(1.0, 1.0));
         self.title = @"Bay Area High Schools";
         
         self.sharedSingleton = [DataSingleton sharedMySingleton];
@@ -80,9 +79,12 @@
     }
     else {
         self.title = [self.schoolDict objectForKey:@"school"];
-        
-        
-
+        NSString *locLat = [self.schoolDict objectForKey:@"lat"];
+        CLLocationDegrees locLatVal = (CLLocationDegrees) [locLat doubleValue];
+        NSString *locLon = [self.schoolDict objectForKey:@"lon"];
+        CLLocationDegrees locLonVal = (CLLocationDegrees) [locLon doubleValue];
+        CLLocationCoordinate2D locCoord = CLLocationCoordinate2DMake(locLatVal, locLonVal);
+        [self.mapView setRegion:MKCoordinateRegionMake(locCoord, MKCoordinateSpanMake(1.0, 1.0)) animated:YES];
         
         [self performSelector:@selector(showAnnotation:) withObject:nil afterDelay:2.0];
     }
@@ -105,13 +107,10 @@
 
 - (void) showAnnotation:(id) sender
 {
-    
-    
     NSString *locLat = [self.schoolDict objectForKey:@"lat"];
     CLLocationDegrees locLatVal = (CLLocationDegrees) [locLat doubleValue];
     NSString *locLon = [self.schoolDict objectForKey:@"lon"];
     CLLocationDegrees locLonVal = (CLLocationDegrees) [locLon doubleValue];
-    
     
     CLLocationCoordinate2D locCoord = CLLocationCoordinate2DMake(locLatVal, locLonVal);
     [self.mapView setRegion:MKCoordinateRegionMake(locCoord, MKCoordinateSpanMake(0.005, 0.005)) animated:YES];
@@ -138,8 +137,6 @@
     if ([strVal length] > retVal) {
         retVal = [strVal length];
     }
-    
-    
     return retVal;
 }
 
@@ -165,14 +162,13 @@
     self.customCallout.view.frame = CGRectMake(150, 250, 170, 120);
     
     self.customCallout.view.alpha = 0.0;
+    SchoolImageAnnotation *tempAnnot = (SchoolImageAnnotation *) view;
     
     if (self.showAll) {
-        SchoolImageAnnotation *tempAnnot = (SchoolImageAnnotation *) view;
         NSString *addr = [tempAnnot.schoolDict objectForKey:@"address"];
         if ([addr length] > 21) {
-            self.customCallout.view.frame = CGRectMake(100, 250, 220, 120);
+            self.customCallout.view.frame = CGRectMake(120, 250, 200, 120);
         }
-        
         self.customCallout.schoolLabel.text = [tempAnnot.schoolDict objectForKey:@"school"];
         self.customCallout.mascotLabel.text = [tempAnnot.schoolDict objectForKey:@"mascot"];
         self.customCallout.addressLabel.text = [tempAnnot.schoolDict objectForKey:@"address"];
@@ -181,6 +177,10 @@
         self.customCallout.phoneLabel.text = [tempAnnot.schoolDict objectForKey:@"phone"];
     }
     else {
+        NSString *addr = [schoolDict objectForKey:@"address"];
+        if ([addr length] > 21) {
+            self.customCallout.view.frame = CGRectMake(120, 250, 200, 120);
+        }
         self.customCallout.schoolLabel.text = [schoolDict objectForKey:@"school"];
         self.customCallout.mascotLabel.text = [schoolDict objectForKey:@"mascot"];
         self.customCallout.addressLabel.text = [schoolDict objectForKey:@"address"];
@@ -206,16 +206,16 @@
             // if an existing pin view was not available, create one
             
             pinView = [[SchoolImageAnnotation alloc] initWithAnnotation:annotation reuseIdentifier:SchoolAnnotationIdentifier];
-//            pinView.animatesDrop = YES;
             pinView.canShowCallout = NO;
             pinView.enabled = YES;
             
             
             if (self.showAll) {
-                pinView.image = [UIImage imageNamed:@"smallpin.png"];
-                pinView.schoolLabel = [[UILabel alloc] initWithFrame:CGRectMake(6, 4, 50, 20)];
+                pinView.image = [UIImage imageNamed:@"smallpin2.png"];
+                pinView.schoolLabel = [[UILabel alloc] initWithFrame:CGRectMake(0, 4, 50, 20)];
                 pinView.schoolLabel.backgroundColor = [UIColor clearColor];
                 pinView.schoolLabel.textColor = [UIColor whiteColor];
+                
                 pinView.schoolLabel.font = [UIFont fontWithName:@"Helvetica-Bold" size:10.0];
                 pinView.schoolDict = [NSDictionary dictionaryWithDictionary:theAnnotation.schoolDict];
             }
@@ -240,7 +240,6 @@
             pinView.schoolLabel.shadowOffset = CGSizeMake(1.0, 1.0);
             pinView.schoolLabel.text = theAnnotation.titleStr;
             [pinView addSubview:pinView.schoolLabel];
-//            [self animateAnnotations];
             return pinView;
         }
         else
@@ -251,26 +250,5 @@
     }  
     return nil;
 }
-
-- (void)fadeInAnnotation:(SchoolImageAnnotation *) annot
-{
-    [UIView beginAnimations:nil context:NULL];
-    [UIView setAnimationBeginsFromCurrentState:YES];
-    [UIView setAnimationDuration:1.0];
-    [annot.viewForBaselineLayout setAlpha:1.0];
-    [UIView commitAnimations];
-    
-    
-    
-}
-
-- (void)animateAnnotations
-{
-    for (SchoolImageAnnotation *annot in self.mapView.annotations) {
-        [self fadeInAnnotation:annot];
-    }
-    
-}
-
 
 @end

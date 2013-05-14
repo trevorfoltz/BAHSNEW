@@ -14,8 +14,6 @@ static DataSingleton * _sharedCurrentUserSingleton;
 
 @synthesize backGroundB, backGroundG, backGroundR;
 
-
-
 +(DataSingleton*)sharedMySingleton
 {
 	@synchronized([DataSingleton class])

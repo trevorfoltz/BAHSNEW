@@ -16,12 +16,6 @@
 @implementation TableCell
 
 
-//CGFloat const backGroundR = 0.8;
-//CGFloat const backGroundB = 0.9;
-//CGFloat const backGroundG = 0.8;
-
-
-
 @synthesize cityDict, tableInCell, tableStates, masterView, theCounty;
 @synthesize cities, schools, searchOn;
 
@@ -67,13 +61,11 @@
 - (CGFloat) tableView:(UITableView *)tableView heightForHeaderInSection:(NSInteger)section
 {
     return 24;
-    
 }
 
 - (CGFloat) tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath
 {
     return 20;
-    
 }
 
 - (UIView*)tableView:(UITableView *)tableView viewForHeaderInSection:(NSInteger)section
@@ -86,12 +78,10 @@
     
     ret.backgroundColor = [UIColor colorWithRed:dataSingleton.backGroundR green:dataSingleton.backGroundG blue:dataSingleton.backGroundB alpha:1.0];
     
-    
     UILabel *lblName = [[UILabel alloc]initWithFrame:CGRectMake(0, 1, 295, 20)];
     lblName.text = city;
     lblName.backgroundColor = [UIColor clearColor];
     lblName.font = [UIFont fontWithName:@"Courier" size:18];
-//    lblName.textColor = [UIColor lightGrayColor];
     lblName.textColor = [UIColor colorWithRed:0.9 green:0.9 blue:1.0 alpha:1.0];
     lblName.shadowColor = [UIColor colorWithRed:0.0 green:0.0 blue:0.6 alpha:1.0];
     lblName.shadowOffset = CGSizeMake(1.0, 1.0);
@@ -102,7 +92,6 @@
     btn.tag = section;
     [btn addTarget:self action:@selector(didPressCity:) forControlEvents:UIControlEventTouchUpInside];
     [ret addSubview:btn];
-    
     
     return ret;
 }
@@ -148,7 +137,6 @@
     if ([mascot isEqualToString:@""]) {
         cell.textLabel.text = schoolName;
     }
-    
     return cell;
 }
 

@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D0516626173C21E6003D24CE /* smallpin2.png in Resources */ = {isa = PBXBuildFile; fileRef = D0516625173C21E5003D24CE /* smallpin2.png */; };
 		D0C54FA7173C141E005A4EA0 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D0C54FA6173C141E005A4EA0 /* UIKit.framework */; };
 		D0C54FA9173C141E005A4EA0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D0C54FA8173C141E005A4EA0 /* Foundation.framework */; };
 		D0C54FAB173C141E005A4EA0 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D0C54FAA173C141E005A4EA0 /* CoreGraphics.framework */; };
@@ -27,15 +28,16 @@
 		D0C54FE1173C155D005A4EA0 /* SchoolMapViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D0C54FD4173C155D005A4EA0 /* SchoolMapViewController.m */; };
 		D0C54FE2173C155D005A4EA0 /* SchoolMapViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D0C54FD5173C155D005A4EA0 /* SchoolMapViewController.xib */; };
 		D0C54FE3173C155D005A4EA0 /* Schools.plist in Resources */ = {isa = PBXBuildFile; fileRef = D0C54FD6173C155D005A4EA0 /* Schools.plist */; };
-		D0C54FE4173C155D005A4EA0 /* smallpin.png in Resources */ = {isa = PBXBuildFile; fileRef = D0C54FD7173C155D005A4EA0 /* smallpin.png */; };
 		D0C54FE5173C155D005A4EA0 /* TableCell.m in Sources */ = {isa = PBXBuildFile; fileRef = D0C54FD9173C155D005A4EA0 /* TableCell.m */; };
 		D0C54FE6173C155D005A4EA0 /* TableCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = D0C54FDA173C155D005A4EA0 /* TableCell.xib */; };
 		D0C54FE7173C155D005A4EA0 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D0C54FDC173C155D005A4EA0 /* ViewController.m */; };
 		D0C54FE9173C15D7005A4EA0 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D0C54FE8173C15D7005A4EA0 /* ViewController.xib */; };
 		D0C54FEB173C161A005A4EA0 /* iconbahs1.png in Resources */ = {isa = PBXBuildFile; fileRef = D0C54FEA173C161A005A4EA0 /* iconbahs1.png */; };
+		D0C54FEF173C1EEB005A4EA0 /* smallpin.png in Resources */ = {isa = PBXBuildFile; fileRef = D0C54FEE173C1EEA005A4EA0 /* smallpin.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D0516625173C21E5003D24CE /* smallpin2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = smallpin2.png; sourceTree = "<group>"; };
 		D0C54FA3173C141E005A4EA0 /* BAHSNEW.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BAHSNEW.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0C54FA6173C141E005A4EA0 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		D0C54FA8173C141E005A4EA0 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -65,7 +67,6 @@
 		D0C54FD4173C155D005A4EA0 /* SchoolMapViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SchoolMapViewController.m; sourceTree = "<group>"; };
 		D0C54FD5173C155D005A4EA0 /* SchoolMapViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SchoolMapViewController.xib; sourceTree = "<group>"; };
 		D0C54FD6173C155D005A4EA0 /* Schools.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Schools.plist; sourceTree = "<group>"; };
-		D0C54FD7173C155D005A4EA0 /* smallpin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = smallpin.png; sourceTree = "<group>"; };
 		D0C54FD8173C155D005A4EA0 /* TableCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableCell.h; sourceTree = "<group>"; };
 		D0C54FD9173C155D005A4EA0 /* TableCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableCell.m; sourceTree = "<group>"; };
 		D0C54FDA173C155D005A4EA0 /* TableCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TableCell.xib; sourceTree = "<group>"; };
@@ -73,6 +74,7 @@
 		D0C54FDC173C155D005A4EA0 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		D0C54FE8173C15D7005A4EA0 /* ViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ViewController.xib; sourceTree = "<group>"; };
 		D0C54FEA173C161A005A4EA0 /* iconbahs1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iconbahs1.png; sourceTree = "<group>"; };
+		D0C54FEE173C1EEA005A4EA0 /* smallpin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = smallpin.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -152,9 +154,10 @@
 		D0C54FAD173C141F005A4EA0 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				D0516625173C21E5003D24CE /* smallpin2.png */,
+				D0C54FEE173C1EEA005A4EA0 /* smallpin.png */,
 				D0C54FCC173C155D005A4EA0 /* bigpin.png */,
 				D0C54FD6173C155D005A4EA0 /* Schools.plist */,
-				D0C54FD7173C155D005A4EA0 /* smallpin.png */,
 				D0C54FAE173C141F005A4EA0 /* BAHSNEW-Info.plist */,
 				D0C54FAF173C141F005A4EA0 /* InfoPlist.strings */,
 				D0C54FB2173C141F005A4EA0 /* main.m */,
@@ -225,10 +228,11 @@
 				D0C54FDD173C155D005A4EA0 /* bigpin.png in Resources */,
 				D0C54FE2173C155D005A4EA0 /* SchoolMapViewController.xib in Resources */,
 				D0C54FE3173C155D005A4EA0 /* Schools.plist in Resources */,
-				D0C54FE4173C155D005A4EA0 /* smallpin.png in Resources */,
 				D0C54FE6173C155D005A4EA0 /* TableCell.xib in Resources */,
 				D0C54FE9173C15D7005A4EA0 /* ViewController.xib in Resources */,
 				D0C54FEB173C161A005A4EA0 /* iconbahs1.png in Resources */,
+				D0C54FEF173C1EEB005A4EA0 /* smallpin.png in Resources */,
+				D0516626173C21E6003D24CE /* smallpin2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -308,7 +312,8 @@
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Trevor Foltz";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Trevor Foltz";
 				COPY_PHASE_STRIP = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
@@ -316,6 +321,8 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PROVISIONING_PROFILE = "07AF41A8-F7E5-4257-A50B-1B1FC730D4DA";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "07AF41A8-F7E5-4257-A50B-1B1FC730D4DA";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
@@ -336,11 +343,15 @@
 		D0C54FC2173C141F005A4EA0 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Trevor Foltz";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Trevor Foltz";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "BAHSNEW/BAHSNEW-Prefix.pch";
 				INFOPLIST_FILE = "BAHSNEW/BAHSNEW-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "07AF41A8-F7E5-4257-A50B-1B1FC730D4DA";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "07AF41A8-F7E5-4257-A50B-1B1FC730D4DA";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -406,6 +417,7 @@
 				D0C54FED173C1ADC005A4EA0 /* Ad Hoc */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

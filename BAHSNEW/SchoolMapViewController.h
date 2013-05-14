@@ -28,6 +28,5 @@
 @property (nonatomic, retain) IBOutlet MKMapView *mapView;
 @property (nonatomic, retain) NSDictionary *schoolDict;
 
-- (void)animateAnnotations;
 
 @end

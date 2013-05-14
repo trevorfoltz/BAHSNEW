@@ -60,8 +60,6 @@
     SchoolMapViewController *mapView = [[SchoolMapViewController alloc] initWithNibName:@"SchoolMapViewController" bundle:nil];
     mapView.showAll = YES;
     
-
-    
     [self.navigationController pushViewController:mapView animated:YES];
 }
 
